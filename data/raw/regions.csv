@@ -1,0 +1,9 @@
+region_id,country,region_name,manager
+R01,Belgium,Benelux,Emma De Smet
+R02,Netherlands,benelux,Emma De Smet
+R03,France,Western Europe,Pierre Laurent
+R04,Germany,Central Europe,Markus Vogel
+R05,Luxembourg,Benelux,Emma De Smet
+R06,belgium,BENELUX,emma de smet
+R07,france,Western EU,Pierre Laurent
+R08,Germany,Central Europe,Markus Vogel

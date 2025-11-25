@@ -1,0 +1,1221 @@
+customer_id,first_name,last_name,country,city,email,signup_date,loyalty_status,age
+CUST_1001,Gabriel,Simon,France,Marseille,gabriel.simon@gmail.com,10/5/2022,Silver,55
+CUST_1002,Hannah,Schneider,Germany,Berlin,,1/13/2025,Gold,70
+CUST_1003,Jules,Martin,France,Lille,jules.martin@yahoo.com,9/8/2022,None,65
+CUST_1004,Jules,Michel,France,Marseille,jules.michel@icloud.com,10/19/2024,,34
+CUST_1005,Emma,Mertens,Luxembourg,Luxembourg City,emma.mertens@yahoo.com,9/2/2024,None,51
+CUST_1006,Anna,Visser,Netherlands,Rotterdam,anna.visser@gmail.com,7/11/2021,Platinum,38
+CUST_1007,Sophie,Jansen,Netherlands,Amsterdam,sophie.jansen@gmail.com,5/30/2021,,63
+CUST_1008,Lucas,van den Berg,Netherlands,The Hague,lucas.vandenberg@outlook.com,10/29/2025,None,29
+CUST_1009,Liam,Visser,Netherlands,Eindhoven,liam.visserhotmail.com,7/24/2023,,52
+CUST_1010,Gabriel,Michel,Luxembourg,Esch-sur-Alzette,gabriel.michel@icloud.com,1/28/2024,None,33
+CUST_1011,Leon,Wagner,Germany,Munich,leon.wagner@yahoo.com,7/17/2022,Platinum,68
+CUST_1012,Noah,de Vries,Netherlands,Utrecht,noah.devries@icloud.com,11/9/2021,None,27
+CUST_1013,Mia,Weber,Germany,Frankfurt,mia.weberhotmail.com,4/26/2025,Silver,67
+CUST_1014,Arthur,Martin,Luxembourg,Luxembourg City,arthur.martin@yahoo.com,9/8/2025,,70
+CUST_1015,Lars,Martin,Luxembourg,Luxembourg City,LARS.MARTIN@YAHOO.COM,10/22/2024,Gold,69
+CUST_1016,Paul,Weber,Germany,Cologne,paul.weber@gmail.com,6/21/2021,None,31
+CUST_1017,Daan,de Vries,Netherlands,The Hague,daan.devries@yahoo.com,2/16/2023,Platinum,49
+CUST_1018,Lars,Janssens,Belgium,Liège,lars.janssensicloud.com,5/21/2021,Silver,64
+CUST_1019,Noah,Peeters,Belgium,Brussels,NOAH.PEETERS@ICLOUD.COM,3/1/2024,Platinum,52
+CUST_1020,Gabriel,Simon,France,Nice,gabriel.simon@gmail.com,3/31/2024,Platinum,
+CUST_1021,Arthur,Mertens,Luxembourg,Luxembourg City,arthur.mertens@gmail.com,11/28/2024,,66
+CUST_1022,Sofie,Maes,Belgium,Leuven,SOFIE.MAES@HOTMAIL.COM,1/26/2021,Silver,54
+CUST_1023,Mia,Meyer,Germany,Frankfurt,mia.meyer@outlook.com,7/8/2022,None,57
+CUST_1024,Finn,Wagner,Germany,Stuttgart,finn.wagner@icloud.com,6/27/2021,Gold,51
+CUST_1025,Finn,Schneider,Germany,Berlin,finn.schneider@hotmail.com,6/22/2025,,40
+CUST_1026,Louis,Simon,France,Lyon,louis.simon@gmail.com,5/8/2022,None,64
+CUST_1027,Ben,Müller,Germany,Hamburg,ben.müller@outlook.com,1/26/2023,Platinum,56
+CUST_1028,Mia,Schneider,Germany,Stuttgart,mia.schneider@hotmail.com,1/30/2022,,70
+CUST_1029,Sophie,Jansen,Netherlands,The Hague,sophie.jansen@yahoo.com,8/3/2022,Platinum,35
+CUST_1030,Julia,Jansen,Netherlands,Utrecht,JULIA.JANSEN@GMAIL.COM,,Gold,41
+CUST_1031,Emma,Wagner,Germany,Berlin,emma.wagner@icloud.com,4/16/2021,Silver,53
+CUST_1032,Louise,Jacobs,Belgium,Brussels,LOUISE.JACOBS@ICLOUD.COM,2/27/2024,Gold,28
+CUST_1033,Louise,Willems,Belgium,Leuven,louise.willems@icloud.com,6/26/2023,None,60
+CUST_1034,Louis,Simon,France,Lille,louis.simon@gmail.com,9/14/2024,Gold,38
+CUST_1035,Lucas,Maes,Luxembourg,Luxembourg City,lucas.maes@hotmail.com,4/20/2022,None,41
+CUST_1036,Noah,Maes,Belgium,Liège,noah.maes@icloud.com,1/21/2024,Platinum,32
+CUST_1037,Emma,de Jong,Netherlands,Rotterdam,emma.dejong@yahoo.com,6/19/2023,Platinum,67
+CUST_1038,Leon,Weber,Germany,Cologne,leon.weber@hotmail.com,2/13/2025,Silver,39
+CUST_1039,Noah,De Smet,Belgium,Leuven,noah.desmet@icloud.com,7/6/2022,None,34
+CUST_1040,Jules,Willems,Luxembourg,Luxembourg City,jules.willems@icloud.com,8/21/2023,Platinum,44
+CUST_1041,Lucas,Maes,Belgium,Bruges,lucas.maes@hotmail.com,2/1/2024,Platinum,28
+CUST_1042,Alice,Martin,France,Toulouse,ALICE.MARTIN@ICLOUD.COM,8/5/2023,,35
+CUST_1043,Chloé,Michel,France,Toulouse,chloé.michel@gmail.com,6/17/2023,Silver,54
+CUST_1044,Noah,De Smet,Belgium,Antwerp,noah.desmet@yahoo.com,9/20/2025,Silver,52
+CUST_1045,Anna,Visser,Netherlands,Utrecht,anna.visser@icloud.com,8/26/2023,Gold,58
+CUST_1046,Hannah,Weber,Germany,Cologne,hannah.weber@outlook.com,4/30/2023,Platinum,55
+CUST_1047,Marie,De Smet,Belgium,Ghent,marie.desmet@icloud.com,7/4/2023,Platinum,45
+CUST_1048,Arthur,Martin,Luxembourg,Esch-sur-Alzette,arthur.martin@outlook.com,10/20/2025,Platinum,25
+CUST_1049,Finn,Fischer,Germany,Stuttgart,FINN.FISCHER@OUTLOOK.COM,4/23/2024,None,29
+CUST_1050,Lars,Janssens,Belgium,Liège,lars.janssens@outlook.com,8/20/2023,Platinum,39
+CUST_1051,Arthur,Laurent,Luxembourg,Luxembourg City,arthur.laurent@yahoo.com,10/11/2022,,54
+CUST_1052,Emma,Peeters,Belgium,Liège,emma.peeters@yahoo.com,7/21/2021,Silver,68
+CUST_1053,Paul,Meyer,Germany,Hamburg,paul.meyergmail.com,2/7/2023,,38
+CUST_1054,Paul,Schmidt,Germany,Munich,paul.schmidt@gmail.com,10/17/2023,Gold,32
+CUST_1055,Leon,Fischer,Germany,Hamburg,leon.fischer@gmail.com,1/25/2024,Platinum,51
+CUST_1056,Emma,Laurent,Luxembourg,Esch-sur-Alzette,emma.laurent@yahoo.com,10/14/2025,None,38
+CUST_1057,Louise,Dubois,Luxembourg,Esch-sur-Alzette,,1/17/2021,Silver,66
+CUST_1058,Chloé,Lefebvre,Luxembourg,Esch-sur-Alzette,chloé.lefebvre@outlook.com,6/25/2024,Gold,69
+CUST_1059,Sofie,Maes,Belgium,Bruges,sofie.maes@gmail.com,8/28/2022,Gold,49
+CUST_1060,Liam,Bakker,Netherlands,Utrecht,liam.bakker@icloud.com,8/16/2025,Platinum,41
+CUST_1061,Lars,Janssens,Belgium,Antwerp,lars.janssens@outlook.com,9/29/2025,Silver,46
+CUST_1062,Ben,Schneider,Germany,Cologne,ben.schneider@gmail.com,4/12/2024,Platinum,63
+CUST_1063,Noah,Jacobs,Belgium,Brussels,noah.jacobs@icloud.com,3/30/2022,None,63
+CUST_1064,Jules,Martin,France,Lyon,jules.martin@gmail.com,7/19/2021,Gold,57
+CUST_1065,Sophia,Schneider,Germany,Stuttgart,sophia.schneider@icloud.com,4/30/2023,,54
+CUST_1066,Leon,Müller,Germany,Stuttgart,leon.müller@yahoo.com,1/13/2023,Platinum,66
+CUST_1067,Louise,Janssens,Luxembourg,Esch-sur-Alzette,LOUISE.JANSSENS@YAHOO.COM,7/21/2023,,36
+CUST_1068,Sofie,Mertens,Belgium,Ghent,sofie.mertens@outlook.com,8/27/2025,,36
+CUST_1069,Sophie,de Vries,Netherlands,Rotterdam,,9/24/2021,Silver,34
+CUST_1070,Lucas,Janssens,Belgium,Ghent,LUCAS.JANSSENS@OUTLOOK.COM,9/17/2021,Silver,56
+CUST_1071,Lars,Jacobs,Belgium,Ghent,lars.jacobs@icloud.com,6/13/2024,,65
+CUST_1072,Chloé,Michel,France,Paris,chloé.michel@gmail.com,8/10/2021,Silver,51
+CUST_1073,Thomas,Willems,Belgium,Antwerp,thomas.willems@gmail.com,12/29/2024,,61
+CUST_1074,Chloé,Simon,France,Nice,chloé.simon@hotmail.com,8/26/2024,Gold,58
+CUST_1075,Sophia,Schmidt,Germany,Frankfurt,sophia.schmidt@yahoo.com,10/3/2022,Platinum,65
+CUST_1076,Gabriel,Michel,France,Toulouse,GABRIEL.MICHEL@GMAIL.COM,3/5/2025,,31
+CUST_1077,Thomas,De Smet,Belgium,Brussels,thomas.desmet@hotmail.com,1/16/2025,,41
+CUST_1078,Alice,Martin,France,Nice,alice.martin@icloud.com,8/10/2021,Platinum,58
+CUST_1079,Marie,Willems,Belgium,Antwerp,marie.willems@hotmail.com,6/10/2024,Silver,58
+CUST_1080,Louis,Janssens,Luxembourg,Luxembourg City,louis.janssens@yahoo.com,1/13/2021,,32
+CUST_1081,Emma,Schmidt,Germany,Stuttgart,emma.schmidt@gmail.com,7/19/2023,Platinum,46
+CUST_1082,Emma,Martin,France,Lyon,EMMA.MARTIN@OUTLOOK.COM,6/27/2023,,54
+CUST_1083,Finn,Schneider,Germany,Munich,finn.schneider@icloud.com,10/21/2024,Platinum,56
+CUST_1084,Noah,Jacobs,Belgium,Leuven,,10/9/2021,Platinum,41
+CUST_1085,Sofie,Jacobs,Belgium,Liège,sofie.jacobs@hotmail.com,10/22/2023,Platinum,65
+CUST_1086,Louise,Mertens,Belgium,Liège,louise.mertens@gmail.com,10/4/2022,None,59
+CUST_1087,Leon,Müller,Germany,Frankfurt,leon.müller@gmail.com,8/1/2023,Silver,46
+CUST_1088,Emma,Schmidt,Germany,Frankfurt,EMMA.SCHMIDT@ICLOUD.COM,3/8/2025,Gold,44
+CUST_1089,Emma,Willems,Belgium,Leuven,emma.willems@outlook.com,8/5/2025,Gold,32
+CUST_1090,Lucas,Maes,Belgium,Antwerp,lucas.maes@outlook.com,12/29/2021,None,63
+CUST_1091,Sophia,Meyer,Germany,Cologne,sophia.meyer@icloud.com,6/20/2023,Platinum,51
+CUST_1092,Louis,Dubois,France,Nice,louis.dubois@gmail.com,8/31/2025,Silver,64
+CUST_1093,Arthur,Martin,Luxembourg,Luxembourg City,arthur.martin@hotmail.com,5/24/2024,Silver,32
+CUST_1094,Emma,Wagner,Germany,Hamburg,emma.wagner@gmail.com,6/16/2023,,56
+CUST_1095,Thomas,De Smet,Luxembourg,Esch-sur-Alzette,thomas.desmet@yahoo.com,4/18/2021,Platinum,64
+CUST_1096,Thomas,Janssens,Belgium,Leuven,thomas.janssens@hotmail.com,5/19/2024,Silver,44
+CUST_1097,Marie,De Smet,Luxembourg,Esch-sur-Alzette,marie.desmet@hotmail.com,2/19/2024,Gold,44
+CUST_1098,Lucas,Laurent,Luxembourg,Esch-sur-Alzette,lucas.laurent@icloud.com,3/15/2022,Gold,54
+CUST_1099,Liam,Jansen,Netherlands,Amsterdam,LIAM.JANSEN@YAHOO.COM,9/7/2025,Silver,56
+CUST_1100,Gabriel,Simon,France,Toulouse,gabriel.simon@outlook.com,7/15/2025,None,69
+CUST_1101,Louise,Maes,Belgium,Liège,louise.maes@outlook.com,5/25/2025,Gold,57
+CUST_1102,Chloé,Lefebvre,France,Lyon,chloé.lefebvre@yahoo.com,4/25/2025,,47
+CUST_1103,Alice,Maes,Luxembourg,Luxembourg City,alice.maes@icloud.com,1/31/2023,,29
+CUST_1104,Marie,Janssens,Belgium,Antwerp,marie.janssens@yahoo.com,7/7/2021,None,37
+CUST_1105,Louis,Laurent,France,Paris,louis.laurent@hotmail.com,2/7/2023,Silver,43
+CUST_1106,Gabriel,Bernard,France,Paris,gabriel.bernard@yahoo.com,4/4/2025,,51
+CUST_1107,Emma,Janssens,Belgium,Ghent,emma.janssens@outlook.com,12/17/2023,Gold,41
+CUST_1108,Emma,Martin,France,Lyon,emma.martin@hotmail.com,9/10/2025,,61
+CUST_1109,Noah,De Smet,Belgium,Antwerp,noah.desmet@yahoo.com,5/4/2023,Silver,65
+CUST_1110,Louise,Peeters,Luxembourg,Luxembourg City,LOUISE.PEETERS@HOTMAIL.COM,2/4/2023,Platinum,24
+CUST_1111,Thomas,Peeters,Belgium,Liège,thomas.peeters@gmail.com,4/1/2021,Gold,44
+CUST_1112,Sophia,Meyer,Germany,Munich,sophia.meyeroutlook.com,8/24/2022,Silver,35
+CUST_1113,Arthur,Simon,France,Toulouse,ARTHUR.SIMON@ICLOUD.COM,8/9/2022,Platinum,26
+CUST_1114,Emma,Lefebvre,France,Marseille,emma.lefebvre@hotmail.com,3/3/2023,None,34
+CUST_1115,Mia,Wagner,Germany,Cologne,mia.wagner@yahoo.com,5/18/2024,,34
+CUST_1116,Alice,Martin,France,Paris,alice.martin@yahoo.com,5/23/2023,Platinum,51
+CUST_1117,Ben,Meyer,Germany,Hamburg,ben.meyer@icloud.com,4/28/2021,None,63
+CUST_1118,Gabriel,Martin,France,Lyon,gabriel.martin@icloud.com,4/29/2022,Platinum,46
+CUST_1119,Ben,Weber,Germany,Munich,ben.weber@hotmail.com,3/21/2024,None,46
+CUST_1120,Arthur,Bernard,France,Paris,arthur.bernard@gmail.com,2/25/2024,None,39
+CUST_1121,Noah,Visser,Netherlands,The Hague,noah.visser@outlook.com,12/31/2024,Platinum,28
+CUST_1122,Emma,Simon,France,Nice,emma.simon@yahoo.com,12/5/2024,,46
+CUST_1123,Emma,Jansen,Netherlands,Rotterdam,EMMA.JANSEN@OUTLOOK.COM,1/26/2023,Gold,58
+CUST_1124,Lucas,Peeters,Luxembourg,Esch-sur-Alzette,lucas.peeters@hotmail.com,4/25/2025,Silver,59
+CUST_1125,Julia,Visser,Netherlands,Amsterdam,julia.visser@hotmail.com,8/25/2025,,63
+CUST_1126,Liam,van den Berg,Netherlands,Eindhoven,liam.vandenberg@gmail.com,11/28/2021,Gold,68
+CUST_1127,Arthur,Lefebvre,France,Paris,arthur.lefebvre@yahoo.com,7/4/2024,Silver,57
+CUST_1128,Thomas,Dubois,Luxembourg,Luxembourg City,thomas.dubois@outlook.com,9/22/2025,Silver,25
+CUST_1129,Sofie,De Smet,Belgium,Leuven,sofie.desmet@yahoo.com,8/1/2024,,63
+CUST_1130,Arthur,Laurent,France,Lyon,ARTHUR.LAURENT@HOTMAIL.COM,6/20/2023,Gold,52
+CUST_1131,Gabriel,Dubois,France,Lille,gabriel.dubois@yahoo.com,9/25/2021,,55
+CUST_1132,Thomas,Peeters,Belgium,Bruges,thomas.peeters@gmail.com,8/18/2022,None,62
+CUST_1133,Liam,de Vries,Netherlands,Eindhoven,liam.devries@yahoo.com,8/15/2023,None,42
+CUST_1134,Emma,Jacobs,Belgium,Leuven,emma.jacobs@hotmail.com,4/14/2021,None,61
+CUST_1135,Louis,Lefebvre,France,Paris,louis.lefebvre@hotmail.com,4/6/2023,Silver,48
+CUST_1136,Louise,De Smet,Luxembourg,Esch-sur-Alzette,louise.desmet@gmail.com,8/18/2025,,66
+CUST_1137,Lucas,Janssens,Belgium,Bruges,lucas.janssens@yahoo.com,3/27/2025,,61
+CUST_1138,Ben,Müller,Germany,Berlin,ben.müller@outlook.com,11/2/2021,Gold,55
+CUST_1139,Alice,Bernard,France,Toulouse,alice.bernard@icloud.com,8/24/2025,,54
+CUST_1140,Chloé,Lefebvre,France,Paris,CHLOÉ.LEFEBVRE@YAHOO.COM,9/23/2022,Silver,69
+CUST_1141,Chloé,Willems,Luxembourg,Luxembourg City,chloé.willems@gmail.com,6/23/2024,Gold,47
+CUST_1142,Daan,Bakker,Netherlands,Amsterdam,,11/15/2024,,55
+CUST_1143,Ben,Meyer,Germany,Munich,ben.meyer@icloud.com,12/13/2023,None,34
+CUST_1144,Gabriel,Bernard,Luxembourg,Esch-sur-Alzette,gabriel.bernard@yahoo.com,2/17/2024,Platinum,42
+CUST_1145,Anna,de Vries,Netherlands,The Hague,anna.devries@yahoo.com,8/13/2022,,66
+CUST_1146,Finn,Wagner,Germany,Hamburg,finn.wagner@outlook.com,12/11/2022,Platinum,64
+CUST_1147,Hannah,Schmidt,Germany,Cologne,hannah.schmidt@yahoo.com,6/14/2024,Gold,38
+CUST_1148,Noah,De Smet,Belgium,Antwerp,noah.desmet@gmail.com,10/27/2024,,23
+CUST_1149,Lucas,Visser,Netherlands,The Hague,lucas.visser@hotmail.com,8/8/2022,,28
+CUST_1150,Daan,Jansen,Netherlands,The Hague,DAAN.JANSEN@OUTLOOK.COM,6/2/2025,Platinum,70
+CUST_1151,Sofie,Maes,Belgium,Leuven,sofie.maes@icloud.com,8/6/2024,Gold,54
+CUST_1152,Jules,Willems,Luxembourg,Luxembourg City,jules.willems@gmail.com,1/11/2025,Platinum,70
+CUST_1153,Louise,Bernard,France,Nice,louise.bernard@hotmail.com,10/2/2024,None,31
+CUST_1154,Louise,Martin,France,Marseille,louise.martin@hotmail.com,9/11/2022,Silver,59
+CUST_1155,Alice,Michel,France,Lyon,alice.michel@gmail.com,11/6/2024,Platinum,68
+CUST_1156,Marie,Maes,Belgium,Leuven,MARIE.MAES@OUTLOOK.COM,3/12/2025,None,46
+CUST_1157,Chloé,Michel,Luxembourg,Luxembourg City,chloé.michel@outlook.com,12/13/2023,Platinum,68
+CUST_1158,Emma,Janssens,Belgium,Leuven,emma.janssens@icloud.com,10/16/2025,Gold,30
+CUST_1159,Chloé,Peeters,Luxembourg,Esch-sur-Alzette,chloé.peeters@gmail.com,4/29/2021,Platinum,66
+CUST_1160,Louise,Maes,Belgium,Brussels,LOUISE.MAES@OUTLOOK.COM,5/11/2021,Silver,26
+CUST_1161,Ben,Schneider,Germany,Frankfurt,ben.schneider@outlook.com,8/15/2024,None,46
+CUST_1162,Finn,Fischer,Germany,Berlin,finn.fischer@icloud.com,1/6/2024,Gold,31
+CUST_1163,Sofie,Maes,Belgium,Bruges,sofie.maes@icloud.com,8/2/2023,Gold,40
+CUST_1164,Sofie,Mertens,Belgium,Liège,sofie.mertens@hotmail.com,5/8/2022,,29
+CUST_1165,Lars,Willems,Belgium,Liège,LARS.WILLEMS@GMAIL.COM,1/11/2024,Gold,26
+CUST_1166,Emma,Jacobs,Luxembourg,Esch-sur-Alzette,emma.jacobs@icloud.com,9/11/2022,,65
+CUST_1167,Lucas,de Vries,Netherlands,Utrecht,lucas.devries@gmail.com,12/25/2021,,50
+CUST_1168,Ben,Schneider,Germany,Stuttgart,ben.schneider@hotmail.com,11/2/2021,,34
+CUST_1169,Hannah,Wagner,Germany,Munich,HANNAH.WAGNER@YAHOO.COM,4/29/2021,,49
+CUST_1170,Marie,Mertens,Luxembourg,Luxembourg City,marie.mertens@yahoo.com,10/1/2025,Gold,57
+CUST_1171,Marie,Jacobs,Belgium,Liège,marie.jacobs@icloud.com,4/9/2025,,65
+CUST_1172,Anna,Jansen,Netherlands,Utrecht,ANNA.JANSEN@YAHOO.COM,2/27/2025,Gold,53
+CUST_1173,Louise,Mertens,Luxembourg,Luxembourg City,louise.mertens@icloud.com,8/21/2024,Platinum,39
+CUST_1174,Chloé,Martin,Luxembourg,Luxembourg City,chloé.martin@hotmail.com,10/3/2022,Gold,59
+CUST_1175,Daan,de Vries,Netherlands,Eindhoven,daan.devries@icloud.com,11/7/2022,Gold,59
+CUST_1176,Mia,Schneider,Germany,Frankfurt,mia.schneider@hotmail.com,10/14/2021,Gold,54
+CUST_1177,Emma,Bernard,Luxembourg,Luxembourg City,emma.bernard@gmail.com,4/25/2023,Gold,63
+CUST_1178,Lucas,Janssens,Belgium,Antwerp,LUCAS.JANSSENS@ICLOUD.COM,6/16/2024,None,65
+CUST_1179,Sofie,Willems,Belgium,Leuven,,8/11/2022,None,
+CUST_1180,Emma,de Jong,Netherlands,Eindhoven,emma.dejong@outlook.com,12/27/2022,Silver,48
+CUST_1181,Jules,Laurent,France,Nice,jules.laurent@outlook.com,10/3/2025,Silver,64
+CUST_1182,Louise,Jacobs,Belgium,Bruges,louise.jacobs@icloud.com,6/19/2021,Platinum,50
+CUST_1183,Noah,Bernard,Luxembourg,Luxembourg City,noah.bernard@outlook.com,9/1/2023,Platinum,27
+CUST_1184,Emma,Maes,Luxembourg,Esch-sur-Alzette,emma.maes@gmail.com,12/30/2024,Platinum,27
+CUST_1185,Sophie,Bakker,Netherlands,The Hague,sophie.bakker@icloud.com,11/12/2024,Platinum,55
+CUST_1186,Emma,Jacobs,Belgium,Antwerp,emma.jacobs@gmail.com,3/24/2023,Silver,43
+CUST_1187,Chloé,Laurent,France,Lyon,chloé.laurent@yahoo.com,4/14/2024,,28
+CUST_1188,Louise,Michel,France,Paris,louise.michel@gmail.com,11/12/2021,Platinum,43
+CUST_1189,Emma,Janssens,Belgium,Ghent,emma.janssens@hotmail.com,1/19/2022,,58
+CUST_1190,Alice,Peeters,Luxembourg,Luxembourg City,ALICE.PEETERS@GMAIL.COM,10/27/2022,Platinum,23
+CUST_1191,Finn,Wagner,Germany,Berlin,finn.wagner@icloud.com,12/14/2021,Gold,33
+CUST_1192,Arthur,Dubois,France,Toulouse,arthur.duboisoutlook.com,9/19/2023,Platinum,46
+CUST_1193,Anna,Bakker,Netherlands,Eindhoven,ANNA.BAKKER@OUTLOOK.COM,,None,62
+CUST_1194,Chloé,Dubois,France,Toulouse,chloé.dubois@icloud.com,2/16/2022,None,34
+CUST_1195,Arthur,Michel,France,Lille,arthur.michel@hotmail.com,7/29/2022,Platinum,48
+CUST_1196,Noah,Willems,Belgium,Leuven,noah.willems@outlook.com,8/4/2023,None,36
+CUST_1197,Emma,Lefebvre,France,Toulouse,emma.lefebvre@hotmail.com,11/12/2021,Silver,47
+CUST_1198,Sophia,Weber,Germany,Frankfurt,sophia.weber@icloud.com,1/19/2024,,46
+CUST_1199,Lucas,Peeters,Luxembourg,Luxembourg City,lucas.peeters@yahoo.com,8/14/2024,Platinum,48
+CUST_1200,Emma,Müller,Germany,Berlin,emma.müller@yahoo.com,11/9/2024,Platinum,51
+CUST_1201,Sophia,Wagner,Germany,Stuttgart,sophia.wagner@icloud.com,9/16/2023,Silver,49
+CUST_1202,Lucas,Maes,Belgium,Ghent,lucas.maes@yahoo.com,9/3/2023,None,69
+CUST_1203,Emma,Dubois,France,Paris,,6/27/2025,Gold,70
+CUST_1204,Thomas,Bernard,Luxembourg,Luxembourg City,thomas.bernard@yahoo.com,4/10/2023,None,34
+CUST_1205,Ben,Meyer,Germany,Cologne,ben.meyer@outlook.com,,Silver,40
+CUST_1206,Noah,Michel,Luxembourg,Luxembourg City,noah.michel@yahoo.com,11/2/2025,Platinum,63
+CUST_1207,Arthur,Dubois,Luxembourg,Esch-sur-Alzette,arthur.dubois@icloud.com,12/20/2021,Platinum,68
+CUST_1208,Lucas,Laurent,Luxembourg,Luxembourg City,lucas.laurent@yahoo.com,11/21/2024,None,47
+CUST_1209,Marie,Dubois,Luxembourg,Esch-sur-Alzette,marie.dubois@hotmail.com,8/14/2024,,34
+CUST_1210,Anna,de Vries,Netherlands,Rotterdam,anna.devries@outlook.com,1/6/2023,Gold,54
+CUST_1211,Lucas,Bakker,Netherlands,Eindhoven,lucas.bakker@hotmail.com,6/29/2023,,28
+CUST_1212,Noah,Maes,Belgium,Brussels,noah.maes@yahoo.com,3/4/2024,,54
+CUST_1213,Noah,Dubois,Luxembourg,Luxembourg City,noah.dubois@yahoo.com,8/12/2025,None,69
+CUST_1214,Louise,Mertens,Luxembourg,Luxembourg City,louise.mertens@outlook.com,12/15/2022,None,28
+CUST_1215,Noah,Peeters,Belgium,Liège,noah.peeters@icloud.com,5/27/2023,Gold,31
+CUST_1216,Daan,Bakker,Netherlands,Utrecht,daan.bakker@icloud.com,12/12/2024,Platinum,59
+CUST_1217,Noah,Maes,Luxembourg,Esch-sur-Alzette,noah.maes@gmail.com,9/29/2021,Platinum,68
+CUST_1218,Lucas,van den Berg,Netherlands,Rotterdam,lucas.vandenberg@icloud.com,6/4/2021,None,28
+CUST_1219,Louis,Simon,Luxembourg,Esch-sur-Alzette,louis.simon@hotmail.com,,Silver,69
+CUST_1220,Mia,Wagner,Germany,Berlin,mia.wagner@icloud.com,10/11/2023,Platinum,41
+CUST_1221,Marie,Dubois,Luxembourg,Esch-sur-Alzette,marie.dubois@yahoo.com,,Silver,52
+CUST_1222,Lucas,Jacobs,Belgium,Bruges,lucas.jacobs@gmail.com,9/28/2021,Gold,42
+CUST_1223,Emma,Michel,France,Marseille,emma.michel@yahoo.com,4/17/2021,Gold,42
+CUST_1224,Emma,Meyer,Germany,Berlin,EMMA.MEYER@GMAIL.COM,11/30/2023,Silver,23
+CUST_1225,Emma,Lefebvre,France,Toulouse,emma.lefebvre@outlook.com,7/9/2025,Platinum,43
+CUST_1226,Gabriel,Laurent,France,Lyon,gabriel.laurentoutlook.com,12/3/2021,Gold,69
+CUST_1227,Lucas,Bakker,Netherlands,The Hague,LUCAS.BAKKER@OUTLOOK.COM,4/22/2024,None,45
+CUST_1228,Gabriel,Bernard,France,Marseille,gabriel.bernard@gmail.com,8/7/2022,Silver,67
+CUST_1229,Louise,Simon,France,Nice,louise.simon@icloud.com,5/25/2025,None,38
+CUST_1230,Emma,Schmidt,Germany,Frankfurt,emma.schmidticloud.com,,Gold,43
+CUST_1231,Finn,Schneider,Germany,Cologne,finn.schneider@outlook.com,2/4/2021,Platinum,23
+CUST_1232,Daan,de Jong,Netherlands,The Hague,daan.dejong@icloud.com,5/18/2023,,28
+CUST_1233,Marie,Willems,Luxembourg,Luxembourg City,marie.willemsyahoo.com,11/15/2021,,48
+CUST_1234,Marie,De Smet,Belgium,Bruges,MARIE.DESMETOUTLOOK.COM,7/18/2023,Platinum,26
+CUST_1235,Emma,de Jong,Netherlands,Rotterdam,emma.dejong@gmail.com,5/23/2025,Gold,39
+CUST_1236,Gabriel,Michel,France,Marseille,GABRIEL.MICHEL@GMAIL.COM,7/12/2022,,39
+CUST_1237,Lars,Jacobs,Belgium,Leuven,lars.jacobsyahoo.com,11/19/2021,,29
+CUST_1238,Noah,De Smet,Belgium,Leuven,noah.desmetgmail.com,8/25/2023,Gold,32
+CUST_1239,Louise,Peeters,Belgium,Ghent,louise.peeters@outlook.com,6/9/2021,,30
+CUST_1240,Lucas,Peeters,Belgium,Leuven,LUCAS.PEETERS@GMAIL.COM,8/2/2022,Platinum,42
+CUST_1241,Lars,Janssens,Belgium,Ghent,lars.janssens@outlook.com,5/12/2022,None,60
+CUST_1242,Sophie,Jansen,Netherlands,Amsterdam,,11/21/2024,Silver,44
+CUST_1243,Leon,Müller,Germany,Munich,leon.müller@icloud.com,10/19/2021,Silver,28
+CUST_1244,Lucas,Visser,Netherlands,Utrecht,LUCAS.VISSER@HOTMAIL.COM,10/1/2021,Silver,48
+CUST_1245,Emma,Mertens,Luxembourg,Luxembourg City,emma.mertens@outlook.com,3/16/2023,Platinum,70
+CUST_1246,Chloé,Dubois,France,Lyon,CHLOÉ.DUBOIS@GMAIL.COM,8/12/2021,None,33
+CUST_1247,Mia,Fischer,Germany,Berlin,mia.fischer@icloud.com,8/7/2023,Silver,30
+CUST_1248,Noah,Visser,Netherlands,Eindhoven,noah.visser@gmail.com,12/27/2024,None,45
+CUST_1249,Emma,Laurent,Luxembourg,Esch-sur-Alzette,emma.laurent@yahoo.com,10/17/2025,,70
+CUST_1250,Emma,van den Berg,Netherlands,Amsterdam,EMMA.VANDENBERG@OUTLOOK.COM,4/1/2022,Platinum,48
+CUST_1251,Marie,Mertens,Belgium,Brussels,marie.mertens@gmail.com,7/16/2025,Silver,44
+CUST_1252,Lars,Janssens,Belgium,Antwerp,lars.janssens@icloud.com,2/23/2023,Platinum,34
+CUST_1253,Liam,de Vries,Netherlands,Utrecht,LIAM.DEVRIES@HOTMAIL.COM,5/19/2022,None,54
+CUST_1254,Chloé,Janssens,Luxembourg,Luxembourg City,chloé.janssens@yahoo.com,6/21/2025,,63
+CUST_1255,Louise,Mertens,Belgium,Liège,louise.mertens@yahoo.com,3/4/2024,Platinum,47
+CUST_1256,Daan,de Vries,Netherlands,Eindhoven,,7/15/2025,Platinum,56
+CUST_1257,Lars,Maes,Luxembourg,Luxembourg City,lars.maes@outlook.com,2/18/2025,,37
+CUST_1258,Mia,Wagner,Germany,Munich,mia.wagner@outlook.com,1/5/2023,Platinum,24
+CUST_1259,Marie,Dubois,Luxembourg,Luxembourg City,marie.dubois@hotmail.com,,Gold,61
+CUST_1260,Lars,Janssens,Belgium,Ghent,LARS.JANSSENS@ICLOUD.COM,7/2/2025,Silver,43
+CUST_1261,Lucas,Willems,Belgium,Liège,lucas.willems@outlook.com,5/29/2021,None,65
+CUST_1262,Noah,De Smet,Luxembourg,Esch-sur-Alzette,noah.desmet@yahoo.com,6/10/2025,Platinum,54
+CUST_1263,Julia,Jansen,Netherlands,Eindhoven,julia.jansen@outlook.com,12/30/2021,,67
+CUST_1264,Ben,Schmidt,Germany,Cologne,ben.schmidt@yahoo.com,3/4/2024,Gold,54
+CUST_1265,Emma,Bernard,France,Marseille,emma.bernard@yahoo.com,12/22/2024,Platinum,69
+CUST_1266,Ben,Schneider,Germany,Munich,ben.schneider@outlook.com,1/15/2025,None,
+CUST_1267,Finn,Schmidt,Germany,Frankfurt,finn.schmidt@hotmail.com,8/25/2025,Gold,59
+CUST_1268,Anna,de Jong,Netherlands,Amsterdam,,12/2/2022,Gold,47
+CUST_1269,Emma,Maes,Belgium,Leuven,emma.maes@icloud.com,8/31/2024,Gold,50
+CUST_1270,Emma,Maes,Belgium,Antwerp,emma.maes@outlook.com,1/12/2024,Platinum,41
+CUST_1271,Emma,de Jong,Netherlands,The Hague,emma.dejong@icloud.com,1/8/2021,,41
+CUST_1272,Hannah,Müller,Germany,Berlin,hannah.müller@outlook.com,9/25/2025,None,48
+CUST_1273,Leon,Müller,Germany,Stuttgart,leon.müller@icloud.com,1/18/2022,None,39
+CUST_1274,Leon,Schmidt,Germany,Hamburg,leon.schmidticloud.com,6/25/2021,None,57
+CUST_1275,Lars,Bernard,Luxembourg,Luxembourg City,lars.bernard@hotmail.com,8/31/2023,None,38
+CUST_1276,Emma,Laurent,France,Lille,emma.laurent@gmail.com,10/19/2024,Silver,32
+CUST_1277,Paul,Schmidt,Germany,Munich,paul.schmidt@outlook.com,6/11/2023,Gold,63
+CUST_1278,Louis,De Smet,Luxembourg,Luxembourg City,louis.desmet@gmail.com,7/20/2022,,23
+CUST_1279,Alice,Peeters,Luxembourg,Esch-sur-Alzette,alice.peeters@outlook.com,7/25/2021,Silver,59
+CUST_1280,Alice,Laurent,France,Marseille,alice.laurent@hotmail.com,12/19/2021,,32
+CUST_1281,Arthur,Janssens,Luxembourg,Esch-sur-Alzette,ARTHUR.JANSSENS@YAHOO.COM,7/5/2022,Platinum,24
+CUST_1282,Arthur,Dubois,France,Toulouse,arthur.dubois@gmail.com,3/4/2025,Platinum,43
+CUST_1283,Emma,Schmidt,Germany,Frankfurt,emma.schmidt@outlook.com,11/24/2023,,26
+CUST_1284,Emma,de Vries,Netherlands,Eindhoven,emma.devries@hotmail.com,3/1/2021,Silver,35
+CUST_1285,Daan,van den Berg,Netherlands,Amsterdam,daan.vandenberg@yahoo.com,11/1/2023,Silver,30
+CUST_1286,Julia,van den Berg,Netherlands,Eindhoven,julia.vandenberg@hotmail.com,12/18/2022,Silver,39
+CUST_1287,Louis,Laurent,France,Paris,louis.laurent@outlook.com,3/30/2022,Gold,66
+CUST_1288,Jules,Simon,France,Paris,JULES.SIMON@GMAIL.COM,6/29/2025,Platinum,
+CUST_1289,Emma,Simon,Luxembourg,Esch-sur-Alzette,emma.simon@hotmail.com,3/23/2022,,66
+CUST_1290,Arthur,Dubois,Luxembourg,Luxembourg City,arthur.dubois@gmail.com,2/6/2023,,61
+CUST_1291,Arthur,Michel,France,Paris,arthur.michelhotmail.com,10/31/2025,Platinum,64
+CUST_1292,Liam,Bakker,Netherlands,Rotterdam,liam.bakker@gmail.com,9/14/2024,Silver,31
+CUST_1293,Leon,Schneider,Germany,Frankfurt,LEON.SCHNEIDER@HOTMAIL.COM,3/17/2024,Gold,44
+CUST_1294,Chloé,Laurent,Luxembourg,Esch-sur-Alzette,chloé.laurent@icloud.com,2/18/2024,None,29
+CUST_1295,Noah,Visser,Netherlands,Eindhoven,noah.visser@outlook.com,4/1/2022,Platinum,70
+CUST_1296,Mia,Schneider,Germany,Hamburg,mia.schneider@icloud.com,7/23/2024,Silver,62
+CUST_1297,Hannah,Weber,Germany,Berlin,hannah.weber@hotmail.com,11/5/2021,Platinum,35
+CUST_1298,Sophia,Schmidt,Germany,Hamburg,sophia.schmidt@outlook.com,12/29/2021,Silver,26
+CUST_1299,Leon,Schmidt,Germany,Munich,leon.schmidt@icloud.com,6/30/2021,None,50
+CUST_1300,Finn,Fischer,Germany,Frankfurt,finn.fischergmail.com,1/29/2021,Gold,56
+CUST_1301,Sofie,De Smet,Belgium,Liège,sofie.desmet@outlook.com,7/30/2021,Platinum,60
+CUST_1302,Emma,de Jong,Netherlands,Utrecht,emma.dejong@yahoo.com,6/8/2023,Platinum,31
+CUST_1303,Mia,Wagner,Germany,Munich,mia.wagner@outlook.com,4/13/2022,Gold,31
+CUST_1304,Lucas,Janssens,Belgium,Ghent,lucas.janssens@gmail.com,6/30/2024,Silver,26
+CUST_1305,Sofie,De Smet,Belgium,Brussels,SOFIE.DESMET@HOTMAIL.COM,12/8/2024,Silver,67
+CUST_1306,Jules,Michel,France,Paris,jules.michel@icloud.com,8/29/2025,,55
+CUST_1307,Marie,Janssens,Belgium,Brussels,marie.janssens@hotmail.com,12/8/2023,None,45
+CUST_1308,Gabriel,Martin,France,Nice,gabriel.martin@hotmail.com,4/26/2022,Silver,
+CUST_1309,Lars,Peeters,Belgium,Brussels,lars.peetersicloud.com,8/12/2024,Platinum,41
+CUST_1310,Ben,Müller,Germany,Munich,ben.müller@gmail.com,5/23/2023,Silver,29
+CUST_1311,Lucas,De Smet,Belgium,Liège,lucas.desmet@outlook.com,7/4/2022,Platinum,28
+CUST_1312,Gabriel,Martin,France,Toulouse,gabriel.martin@hotmail.com,10/9/2025,Gold,49
+CUST_1313,Lucas,De Smet,Belgium,Liège,lucas.desmet@gmail.com,4/24/2024,None,59
+CUST_1314,Lucas,de Vries,Netherlands,Eindhoven,lucas.devries@gmail.com,9/25/2021,Silver,54
+CUST_1315,Sophia,Müller,Germany,Berlin,SOPHIA.MÜLLER@YAHOO.COM,12/11/2023,,59
+CUST_1316,Julia,Bakker,Netherlands,Eindhoven,julia.bakker@icloud.com,12/10/2022,None,64
+CUST_1317,Daan,de Jong,Netherlands,Rotterdam,daan.dejong@icloud.com,6/3/2021,Gold,43
+CUST_1318,Arthur,Martin,France,Nice,arthur.martin@outlook.com,6/11/2021,None,59
+CUST_1319,Lars,Jacobs,Belgium,Ghent,lars.jacobs@gmail.com,,,25
+CUST_1320,Sofie,Lefebvre,Luxembourg,Luxembourg City,sofie.lefebvre@icloud.com,2/26/2024,None,65
+CUST_1321,Alice,Lefebvre,France,Paris,alice.lefebvre@outlook.com,5/13/2024,Platinum,65
+CUST_1322,Emma,Müller,Germany,Stuttgart,,6/27/2025,Platinum,56
+CUST_1323,Sofie,Peeters,Belgium,Bruges,sofie.peeters@outlook.com,6/5/2022,Silver,35
+CUST_1324,Hannah,Fischer,Germany,Munich,hannah.fischer@yahoo.com,9/12/2025,None,30
+CUST_1325,Paul,Fischer,Germany,Berlin,paul.fischer@icloud.com,4/13/2024,Gold,55
+CUST_1326,Thomas,Simon,Luxembourg,Luxembourg City,thomas.simon@gmail.com,10/30/2023,,49
+CUST_1327,Noah,van den Berg,Netherlands,Utrecht,NOAH.VANDENBERG@YAHOO.COM,12/4/2024,Platinum,55
+CUST_1328,Gabriel,Simon,Luxembourg,Luxembourg City,gabriel.simon@outlook.com,10/9/2024,Gold,68
+CUST_1329,Gabriel,Simon,Luxembourg,Luxembourg City,gabriel.simon@yahoo.com,12/25/2024,,70
+CUST_1330,Jules,Lefebvre,France,Paris,jules.lefebvre@icloud.com,4/26/2021,Platinum,33
+CUST_1331,Gabriel,Lefebvre,France,Paris,gabriel.lefebvre@yahoo.com,7/16/2023,,66
+CUST_1332,Lucas,Jansen,Netherlands,Eindhoven,LUCAS.JANSEN@YAHOO.COM,5/4/2023,Platinum,66
+CUST_1333,Emma,Janssens,Luxembourg,Esch-sur-Alzette,emma.janssens@outlook.com,8/27/2025,Platinum,63
+CUST_1334,Louise,Michel,Luxembourg,Luxembourg City,louise.michel@yahoo.com,12/22/2021,None,30
+CUST_1335,Louise,Maes,Belgium,Leuven,louise.maes@yahoo.com,11/8/2022,Silver,32
+CUST_1336,Julia,Bakker,Netherlands,Amsterdam,julia.bakker@icloud.com,2/1/2024,Platinum,68
+CUST_1337,Lars,Maes,Luxembourg,Luxembourg City,lars.maes@icloud.com,12/17/2022,Platinum,36
+CUST_1338,Alice,Dubois,France,Lyon,alice.dubois@icloud.com,8/22/2024,Platinum,
+CUST_1339,Hannah,Meyer,Germany,Cologne,HANNAH.MEYER@ICLOUD.COM,2/21/2023,None,30
+CUST_1340,Arthur,Martin,France,Nice,arthur.martin@yahoo.com,8/31/2022,Platinum,35
+CUST_1341,Lucas,Peeters,Luxembourg,Luxembourg City,lucas.peeters@icloud.com,7/13/2024,None,66
+CUST_1342,Noah,Willems,Belgium,Liège,noah.willems@hotmail.com,11/11/2021,Platinum,
+CUST_1343,Emma,Janssens,Belgium,Brussels,emma.janssens@outlook.com,4/12/2022,None,49
+CUST_1344,Finn,Fischer,Germany,Hamburg,FINN.FISCHER@GMAIL.COM,,,27
+CUST_1345,Emma,Maes,Belgium,Leuven,emma.maes@gmail.com,7/31/2022,None,51
+CUST_1346,Ben,Fischer,Germany,Munich,ben.fischer@icloud.com,10/6/2025,Gold,63
+CUST_1347,Alice,Martin,France,Nice,ALICE.MARTIN@ICLOUD.COM,3/19/2023,Platinum,28
+CUST_1348,Julia,Jansen,Netherlands,The Hague,julia.jansen@icloud.com,6/2/2022,,34
+CUST_1349,Lars,De Smet,Belgium,Leuven,LARS.DESMET@GMAIL.COM,1/26/2025,Platinum,44
+CUST_1350,Sophie,de Jong,Netherlands,Utrecht,sophie.dejongicloud.com,11/4/2022,,42
+CUST_1351,Julia,de Vries,Netherlands,The Hague,,2/24/2025,Platinum,40
+CUST_1352,Julia,van den Berg,Netherlands,The Hague,julia.vandenberg@hotmail.com,12/26/2021,Platinum,28
+CUST_1353,Sophie,de Vries,Netherlands,Amsterdam,sophie.devries@gmail.com,7/23/2025,,48
+CUST_1354,Daan,Bakker,Netherlands,Utrecht,daan.bakker@icloud.com,11/1/2021,,37
+CUST_1355,Gabriel,Laurent,France,Nice,gabriel.laurent@icloud.com,,Gold,62
+CUST_1356,Marie,Martin,Luxembourg,Luxembourg City,marie.martin@outlook.com,10/27/2021,Platinum,53
+CUST_1357,Noah,Mertens,Belgium,Bruges,noah.mertensoutlook.com,,None,46
+CUST_1358,Sophia,Müller,Germany,Berlin,sophia.müller@yahoo.com,7/15/2022,,39
+CUST_1359,Thomas,Mertens,Luxembourg,Esch-sur-Alzette,thomas.mertens@yahoo.com,5/31/2022,,37
+CUST_1360,Mia,Wagner,Germany,Hamburg,mia.wagner@hotmail.com,,Gold,51
+CUST_1361,Emma,Bakker,Netherlands,Utrecht,emma.bakker@outlook.com,8/1/2025,None,37
+CUST_1362,Emma,Laurent,France,Lille,emma.laurent@hotmail.com,4/22/2023,Silver,
+CUST_1363,Liam,Jansen,Netherlands,Eindhoven,LIAM.JANSEN@GMAIL.COM,1/4/2022,,48
+CUST_1364,Sofie,Simon,Luxembourg,Esch-sur-Alzette,sofie.simon@gmail.com,9/14/2023,,49
+CUST_1365,Liam,Bakker,Netherlands,Eindhoven,liam.bakker@yahoo.com,5/6/2024,None,37
+CUST_1366,Paul,Müller,Germany,Berlin,paul.müller@outlook.com,8/20/2025,Gold,29
+CUST_1367,Ben,Wagner,Germany,Cologne,BEN.WAGNER@ICLOUD.COM,5/20/2024,None,23
+CUST_1368,Alice,De Smet,Luxembourg,Luxembourg City,alice.desmet@icloud.com,4/24/2025,,60
+CUST_1369,Louise,Peeters,Belgium,Ghent,louise.peeters@hotmail.com,5/10/2024,Platinum,49
+CUST_1370,Daan,Visser,Netherlands,Amsterdam,daan.visser@icloud.com,2/25/2022,None,43
+CUST_1371,Emma,Bernard,France,Toulouse,emma.bernard@icloud.com,1/19/2023,None,66
+CUST_1372,Lucas,Bakker,Netherlands,Eindhoven,lucas.bakker@hotmail.com,9/21/2022,None,68
+CUST_1373,Emma,Visser,Netherlands,Rotterdam,emma.visser@hotmail.com,11/8/2023,,44
+CUST_1374,Emma,Maes,Luxembourg,Esch-sur-Alzette,emma.maes@gmail.com,5/14/2024,Platinum,27
+CUST_1375,Julia,de Jong,Netherlands,Eindhoven,julia.dejong@gmail.com,9/5/2024,,68
+CUST_1376,Lucas,De Smet,Belgium,Bruges,,11/28/2023,,25
+CUST_1377,Lars,Dubois,Luxembourg,Luxembourg City,lars.dubois@gmail.com,6/27/2021,Platinum,48
+CUST_1378,Finn,Weber,Germany,Munich,,1/31/2024,,58
+CUST_1379,Alice,Lefebvre,France,Marseille,alice.lefebvre@outlook.com,3/23/2024,Gold,
+CUST_1380,Emma,Weber,Germany,Berlin,emma.weber@icloud.com,6/12/2022,Platinum,59
+CUST_1381,Finn,Weber,Germany,Frankfurt,finn.weber@outlook.com,8/2/2023,None,24
+CUST_1382,Marie,Janssens,Belgium,Bruges,marie.janssens@outlook.com,12/25/2022,Platinum,23
+CUST_1383,Noah,de Jong,Netherlands,The Hague,noah.dejongyahoo.com,12/26/2022,Platinum,59
+CUST_1384,Sophie,van den Berg,Netherlands,Rotterdam,sophie.vandenberg@outlook.com,2/20/2022,Platinum,62
+CUST_1385,Emma,de Jong,Netherlands,Amsterdam,emma.dejong@hotmail.com,3/28/2021,,46
+CUST_1386,Chloé,Simon,France,Marseille,chloé.simon@hotmail.com,3/26/2023,Gold,59
+CUST_1387,Louise,Jacobs,Belgium,Leuven,louise.jacobs@gmail.com,12/24/2021,,30
+CUST_1388,Mia,Meyer,Germany,Berlin,mia.meyer@gmail.com,1/11/2023,Gold,39
+CUST_1389,Louis,Jacobs,Luxembourg,Esch-sur-Alzette,louis.jacobs@hotmail.com,5/19/2023,Platinum,67
+CUST_1390,Jules,Dubois,France,Toulouse,jules.dubois@outlook.com,7/26/2025,Gold,40
+CUST_1391,Alice,Lefebvre,Luxembourg,Esch-sur-Alzette,alice.lefebvre@outlook.com,7/9/2025,None,
+CUST_1392,Paul,Wagner,Germany,Stuttgart,paul.wagner@icloud.com,5/29/2022,Silver,59
+CUST_1393,Emma,Meyer,Germany,Munich,emma.meyer@gmail.com,7/17/2021,Platinum,44
+CUST_1394,Alice,Simon,France,Nice,alice.simon@yahoo.com,10/23/2024,,35
+CUST_1395,Thomas,Michel,Luxembourg,Esch-sur-Alzette,thomas.michel@yahoo.com,7/5/2023,,47
+CUST_1396,Chloé,Michel,France,Lyon,chloé.michel@outlook.com,6/8/2024,Silver,27
+CUST_1397,Julia,Jansen,Netherlands,Utrecht,julia.jansen@yahoo.com,3/21/2023,Platinum,51
+CUST_1398,Jules,Mertens,Luxembourg,Luxembourg City,JULES.MERTENS@OUTLOOK.COM,5/31/2022,Silver,67
+CUST_1399,Liam,van den Berg,Netherlands,Amsterdam,liam.vandenberggmail.com,2/23/2021,Silver,56
+CUST_1400,Marie,Willems,Belgium,Antwerp,marie.willems@gmail.com,5/22/2022,Gold,51
+CUST_1401,Liam,de Jong,Netherlands,Amsterdam,liam.dejong@yahoo.com,1/13/2024,None,58
+CUST_1402,Liam,Bakker,Netherlands,Eindhoven,liam.bakker@hotmail.com,12/9/2023,Platinum,57
+CUST_1403,Chloé,Simon,France,Lyon,chloé.simon@gmail.com,9/14/2022,,
+CUST_1404,Julia,de Vries,Netherlands,The Hague,,9/5/2023,Platinum,50
+CUST_1405,Lars,Michel,Luxembourg,Luxembourg City,lars.michel@icloud.com,3/20/2023,None,68
+CUST_1406,Hannah,Schneider,Germany,Berlin,hannah.schneider@hotmail.com,6/9/2024,Platinum,66
+CUST_1407,Arthur,Laurent,France,Lyon,arthur.laurent@gmail.com,6/19/2024,,67
+CUST_1408,Hannah,Schneider,Germany,Berlin,hannah.schneideroutlook.com,7/29/2021,None,31
+CUST_1409,Noah,Janssens,Belgium,Antwerp,noah.janssens@gmail.com,6/26/2025,None,46
+CUST_1410,Thomas,Janssens,Belgium,Antwerp,thomas.janssens@gmail.com,1/7/2022,None,39
+CUST_1411,Emma,Mertens,Belgium,Liège,emma.mertens@outlook.com,3/10/2021,Silver,70
+CUST_1412,Louise,Martin,Luxembourg,Esch-sur-Alzette,louise.martin@yahoo.com,3/6/2025,Silver,56
+CUST_1413,Chloé,Michel,France,Marseille,CHLOÉ.MICHEL@OUTLOOK.COM,8/20/2021,Platinum,50
+CUST_1414,Lucas,Mertens,Belgium,Ghent,lucas.mertens@icloud.com,,None,67
+CUST_1415,Marie,De Smet,Luxembourg,Luxembourg City,MARIE.DESMET@OUTLOOK.COM,4/5/2025,Platinum,26
+CUST_1416,Emma,Jansen,Netherlands,The Hague,emma.jansen@outlook.com,12/13/2022,Gold,51
+CUST_1417,Louise,Maes,Belgium,Liège,LOUISE.MAES@OUTLOOK.COM,2/19/2024,None,67
+CUST_1418,Liam,Bakker,Netherlands,Utrecht,liam.bakker@yahoo.com,10/29/2025,,27
+CUST_1419,Anna,de Vries,Netherlands,Utrecht,ANNA.DEVRIES@ICLOUD.COM,2/16/2023,,24
+CUST_1420,Louise,Dubois,France,Lille,louise.dubois@gmail.com,12/10/2023,Gold,58
+CUST_1421,Emma,De Smet,Luxembourg,Esch-sur-Alzette,emma.desmet@yahoo.com,9/7/2025,Silver,34
+CUST_1422,Emma,van den Berg,Netherlands,Rotterdam,emma.vandenberggmail.com,10/1/2023,,67
+CUST_1423,Louis,Dubois,France,Lyon,LOUIS.DUBOIS@ICLOUD.COM,9/4/2024,None,28
+CUST_1424,Thomas,Willems,Belgium,Liège,thomas.willems@hotmail.com,6/17/2024,Silver,25
+CUST_1425,Emma,Bernard,France,Nice,emma.bernard@gmail.com,1/31/2022,,38
+CUST_1426,Lucas,Visser,Netherlands,Amsterdam,lucas.visser@icloud.com,8/2/2021,,34
+CUST_1427,Mia,Meyer,Germany,Munich,mia.meyer@icloud.com,10/8/2022,Platinum,43
+CUST_1428,Finn,Wagner,Germany,Stuttgart,finn.wagner@yahoo.com,4/18/2025,Platinum,70
+CUST_1429,Chloé,Laurent,France,Toulouse,chloé.laurent@gmail.com,11/27/2023,Silver,42
+CUST_1430,Louise,Bernard,France,Marseille,louise.bernard@gmail.com,2/8/2024,,59
+CUST_1431,Emma,de Jong,Netherlands,The Hague,emma.dejong@yahoo.com,5/27/2022,Silver,42
+CUST_1432,Arthur,Dubois,Luxembourg,Luxembourg City,arthur.dubois@gmail.com,8/19/2025,,67
+CUST_1433,Marie,Janssens,Belgium,Liège,marie.janssens@icloud.com,11/16/2022,None,50
+CUST_1434,Noah,De Smet,Belgium,Liège,noah.desmet@icloud.com,4/21/2021,Platinum,25
+CUST_1435,Marie,De Smet,Luxembourg,Luxembourg City,marie.desmetoutlook.com,7/2/2023,,59
+CUST_1436,Noah,Jacobs,Belgium,Ghent,noah.jacobs@hotmail.com,3/7/2025,Platinum,48
+CUST_1437,Louise,Willems,Belgium,Bruges,louise.willems@outlook.com,3/21/2023,,35
+CUST_1438,Lars,Jacobs,Luxembourg,Luxembourg City,lars.jacobs@yahoo.com,7/3/2021,None,49
+CUST_1439,Alice,Bernard,France,Marseille,ALICE.BERNARD@YAHOO.COM,12/18/2022,,51
+CUST_1440,Anna,de Jong,Netherlands,Rotterdam,anna.dejong@outlook.com,6/25/2021,Gold,26
+CUST_1441,Marie,Lefebvre,Luxembourg,Esch-sur-Alzette,marie.lefebvre@gmail.com,8/23/2023,Gold,
+CUST_1442,Louise,Jacobs,Luxembourg,Esch-sur-Alzette,louise.jacobs@icloud.com,12/2/2024,,47
+CUST_1443,Emma,Willems,Luxembourg,Luxembourg City,emma.willems@gmail.com,4/19/2021,Silver,23
+CUST_1444,Leon,Meyer,Germany,Stuttgart,LEON.MEYER@YAHOO.COM,8/22/2024,,47
+CUST_1445,Thomas,Jacobs,Belgium,Leuven,thomas.jacobs@icloud.com,2/23/2024,Silver,24
+CUST_1446,Noah,de Vries,Netherlands,The Hague,NOAH.DEVRIES@HOTMAIL.COM,12/29/2022,,38
+CUST_1447,Louis,Michel,France,Marseille,louis.michel@hotmail.com,,Gold,40
+CUST_1448,Julia,van den Berg,Netherlands,Rotterdam,julia.vandenberg@gmail.com,7/5/2024,Gold,49
+CUST_1449,Marie,Mertens,Luxembourg,Esch-sur-Alzette,marie.mertens@icloud.com,10/11/2021,Gold,66
+CUST_1450,Noah,Visser,Netherlands,Eindhoven,noah.visser@outlook.com,9/5/2024,Platinum,33
+CUST_1451,Emma,Peeters,Belgium,Ghent,emma.peeters@outlook.com,4/28/2023,None,42
+CUST_1452,Gabriel,Lefebvre,France,Lyon,GABRIEL.LEFEBVRE@GMAIL.COM,6/17/2024,,59
+CUST_1453,Sophie,Jansen,Netherlands,Amsterdam,sophie.jansenyahoo.com,9/29/2025,Platinum,68
+CUST_1454,Lucas,van den Berg,Netherlands,The Hague,lucas.vandenberg@outlook.com,1/31/2021,Gold,49
+CUST_1455,Sophie,de Jong,Netherlands,Rotterdam,sophie.dejong@hotmail.com,7/27/2023,None,50
+CUST_1456,Louise,De Smet,Belgium,Ghent,louise.desmet@hotmail.com,12/12/2023,Silver,68
+CUST_1457,Noah,Martin,Luxembourg,Esch-sur-Alzette,noah.martin@gmail.com,2/14/2025,,47
+CUST_1458,Noah,Maes,Belgium,Bruges,noah.maes@hotmail.com,12/7/2021,Silver,62
+CUST_1459,Marie,Martin,Luxembourg,Esch-sur-Alzette,MARIE.MARTIN@GMAIL.COM,11/26/2024,None,48
+CUST_1460,Chloé,Martin,France,Lyon,chloé.martin@hotmail.com,7/21/2023,Gold,43
+CUST_1461,Emma,Janssens,Belgium,Liège,EMMA.JANSSENS@HOTMAIL.COM,1/28/2025,,55
+CUST_1462,Lucas,Bakker,Netherlands,The Hague,lucas.bakker@gmail.com,9/12/2024,Gold,33
+CUST_1463,Daan,van den Berg,Netherlands,Utrecht,daan.vandenberg@yahoo.com,1/6/2022,Gold,31
+CUST_1464,Marie,Janssens,Belgium,Bruges,marie.janssens@hotmail.com,,Gold,38
+CUST_1465,Chloé,Martin,Luxembourg,Esch-sur-Alzette,chloé.martinhotmail.com,1/26/2024,,63
+CUST_1466,Daan,Jansen,Netherlands,Rotterdam,DAAN.JANSEN@GMAIL.COM,9/28/2024,Platinum,61
+CUST_1467,Emma,Martin,France,Paris,emma.martin@hotmail.com,9/15/2024,,61
+CUST_1468,Thomas,Martin,Luxembourg,Esch-sur-Alzette,thomas.martin@gmail.com,2/16/2023,,50
+CUST_1469,Marie,Jacobs,Belgium,Antwerp,marie.jacobs@gmail.com,12/11/2023,,36
+CUST_1470,Emma,Willems,Belgium,Liège,emma.willems@icloud.com,6/3/2025,None,41
+CUST_1471,Gabriel,Willems,Luxembourg,Esch-sur-Alzette,gabriel.willems@outlook.com,10/17/2023,,34
+CUST_1472,Noah,Jansen,Netherlands,Amsterdam,,10/3/2025,None,62
+CUST_1473,Ben,Schneider,Germany,Hamburg,ben.schneider@icloud.com,11/14/2024,Platinum,27
+CUST_1474,Alice,Lefebvre,France,Paris,alice.lefebvre@gmail.com,6/15/2024,Gold,34
+CUST_1475,Alice,Michel,France,Toulouse,alice.michel@hotmail.com,7/8/2024,Platinum,57
+CUST_1476,Finn,Meyer,Germany,Berlin,finn.meyer@icloud.com,1/3/2024,,
+CUST_1477,Alice,Martin,France,Lyon,alice.martin@yahoo.com,12/31/2023,,59
+CUST_1478,Paul,Weber,Germany,Berlin,paul.weber@yahoo.com,,Gold,54
+CUST_1479,Chloé,Lefebvre,France,Marseille,chloé.lefebvre@outlook.com,3/18/2021,None,28
+CUST_1480,Sofie,Michel,Luxembourg,Esch-sur-Alzette,sofie.michel@icloud.com,12/9/2023,Gold,43
+CUST_1481,Lucas,Peeters,Belgium,Liège,lucas.peeters@gmail.com,1/9/2021,,25
+CUST_1482,Thomas,Jacobs,Belgium,Brussels,thomas.jacobs@gmail.com,3/28/2024,Gold,63
+CUST_1483,Louise,Bernard,France,Marseille,louise.bernard@yahoo.com,7/13/2022,Silver,40
+CUST_1484,Emma,Peeters,Belgium,Leuven,emma.peeters@yahoo.com,7/5/2025,Gold,38
+CUST_1485,Marie,Willems,Belgium,Ghent,MARIE.WILLEMS@ICLOUD.COM,10/15/2024,Silver,47
+CUST_1486,Louise,Jacobs,Belgium,Antwerp,louise.jacobs@icloud.com,7/3/2023,Platinum,42
+CUST_1487,Emma,van den Berg,Netherlands,Eindhoven,emma.vandenberg@outlook.com,7/19/2021,None,66
+CUST_1488,Hannah,Schmidt,Germany,Munich,hannah.schmidt@icloud.com,9/24/2024,None,43
+CUST_1489,Ben,Müller,Germany,Frankfurt,ben.müller@gmail.com,4/22/2025,Gold,59
+CUST_1490,Noah,Mertens,Luxembourg,Luxembourg City,NOAH.MERTENS@YAHOO.COM,8/3/2023,Gold,49
+CUST_1491,Lars,Bernard,Luxembourg,Luxembourg City,lars.bernard@hotmail.com,4/25/2024,,50
+CUST_1492,Louise,Bernard,France,Lille,louise.bernard@gmail.com,8/23/2021,Platinum,52
+CUST_1493,Noah,Lefebvre,Luxembourg,Esch-sur-Alzette,noah.lefebvre@outlook.com,11/4/2024,Platinum,47
+CUST_1494,Ben,Müller,Germany,Munich,ben.müller@outlook.com,1/1/2021,Gold,65
+CUST_1495,Leon,Fischer,Germany,Cologne,leon.fischer@icloud.com,9/6/2022,Platinum,66
+CUST_1496,Mia,Müller,Germany,Cologne,mia.müller@gmail.com,10/12/2025,,46
+CUST_1497,Sofie,De Smet,Belgium,Leuven,sofie.desmet@yahoo.com,,None,60
+CUST_1498,Jules,Laurent,France,Toulouse,jules.laurent@hotmail.com,1/21/2022,None,46
+CUST_1499,Noah,Visser,Netherlands,Rotterdam,,9/24/2023,Silver,31
+CUST_1500,Lucas,van den Berg,Netherlands,Eindhoven,lucas.vandenberg@hotmail.com,8/7/2025,Gold,45
+CUST_1501,Lucas,Bakker,Netherlands,Amsterdam,lucas.bakker@icloud.com,7/6/2022,,57
+CUST_1502,Louis,Martin,France,Nice,LOUIS.MARTIN@HOTMAIL.COM,11/15/2024,,69
+CUST_1503,Chloé,Simon,France,Paris,CHLOÉ.SIMON@ICLOUD.COM,2/27/2025,Silver,65
+CUST_1504,Emma,Dubois,Luxembourg,Luxembourg City,EMMA.DUBOIS@YAHOO.COM,8/19/2023,None,44
+CUST_1505,Arthur,Dubois,France,Lyon,arthur.dubois@gmail.com,5/27/2025,None,26
+CUST_1506,Thomas,Dubois,Luxembourg,Luxembourg City,thomas.dubois@yahoo.com,6/18/2021,Platinum,27
+CUST_1507,Gabriel,Simon,France,Marseille,GABRIEL.SIMON@YAHOO.COM,12/24/2021,Gold,70
+CUST_1508,Mia,Wagner,Germany,Munich,mia.wagner@yahoo.com,12/17/2023,Silver,44
+CUST_1509,Liam,van den Berg,Netherlands,The Hague,liam.vandenberg@hotmail.com,3/8/2022,Silver,45
+CUST_1510,Emma,Martin,France,Lyon,emma.martin@hotmail.com,3/21/2025,None,37
+CUST_1511,Sophia,Schneider,Germany,Munich,SOPHIA.SCHNEIDER@ICLOUD.COM,7/9/2023,,43
+CUST_1512,Emma,Willems,Belgium,Liège,emma.willems@yahoo.com,10/24/2025,Platinum,40
+CUST_1513,Marie,De Smet,Belgium,Leuven,marie.desmet@hotmail.com,10/8/2024,,35
+CUST_1514,Gabriel,Dubois,France,Nice,gabriel.dubois@gmail.com,,None,29
+CUST_1515,Louise,Michel,France,Marseille,LOUISE.MICHEL@YAHOO.COM,5/1/2024,,36
+CUST_1516,Emma,Janssens,Belgium,Leuven,emma.janssens@outlook.com,7/3/2025,Gold,30
+CUST_1517,Arthur,Laurent,France,Lille,arthur.laurent@gmail.com,5/25/2023,Platinum,65
+CUST_1518,Gabriel,Lefebvre,France,Paris,gabriel.lefebvre@yahoo.com,5/4/2021,Gold,39
+CUST_1519,Emma,Fischer,Germany,Munich,emma.fischer@icloud.com,1/13/2024,,36
+CUST_1520,Lars,De Smet,Belgium,Ghent,LARS.DESMETGMAIL.COM,5/11/2025,Gold,54
+CUST_1521,Sofie,De Smet,Belgium,Bruges,sofie.desmet@yahoo.com,1/8/2021,None,54
+CUST_1522,Finn,Wagner,Germany,Stuttgart,FINN.WAGNER@GMAIL.COM,8/3/2025,,30
+CUST_1523,Louise,De Smet,Luxembourg,Esch-sur-Alzette,louise.desmethotmail.com,1/19/2023,Silver,44
+CUST_1524,Leon,Meyer,Germany,Munich,leon.meyer@outlook.com,9/5/2022,Platinum,29
+CUST_1525,Emma,Meyer,Germany,Frankfurt,emma.meyer@outlook.com,4/29/2024,Silver,47
+CUST_1526,Emma,Martin,Luxembourg,Esch-sur-Alzette,EMMA.MARTINGMAIL.COM,3/29/2021,,36
+CUST_1527,Paul,Meyer,Germany,Cologne,PAUL.MEYER@OUTLOOK.COM,9/1/2024,,
+CUST_1528,Noah,De Smet,Belgium,Liège,,8/8/2025,,52
+CUST_1529,Emma,de Jong,Netherlands,Amsterdam,emma.dejong@hotmail.com,2/20/2022,None,70
+CUST_1530,Emma,Michel,France,Nice,emma.michel@icloud.com,4/15/2025,Platinum,34
+CUST_1531,Emma,Maes,Belgium,Antwerp,emma.maes@hotmail.com,5/14/2022,Gold,25
+CUST_1532,Louise,Mertens,Belgium,Antwerp,LOUISE.MERTENS@GMAIL.COM,,,68
+CUST_1533,Jules,Michel,France,Toulouse,jules.michel@outlook.com,4/24/2023,,34
+CUST_1534,Lucas,De Smet,Belgium,Bruges,lucas.desmet@icloud.com,12/14/2022,Gold,58
+CUST_1535,Emma,Bakker,Netherlands,Amsterdam,emma.bakker@icloud.com,3/26/2022,Gold,63
+CUST_1536,Louis,Bernard,France,Paris,louis.bernard@outlook.com,12/28/2021,Silver,25
+CUST_1537,Arthur,Bernard,France,Toulouse,arthur.bernard@yahoo.com,3/30/2021,,26
+CUST_1538,Liam,de Jong,Netherlands,The Hague,liam.dejong@icloud.com,4/28/2024,Gold,49
+CUST_1539,Louise,Lefebvre,France,Paris,louise.lefebvre@yahoo.com,2/14/2022,Silver,37
+CUST_1540,Sophia,Müller,Germany,Frankfurt,sophia.müller@outlook.com,2/4/2023,Gold,69
+CUST_1541,Arthur,Bernard,France,Marseille,arthur.bernardoutlook.com,8/16/2021,None,52
+CUST_1542,Julia,Jansen,Netherlands,Utrecht,julia.jansen@icloud.com,12/15/2021,Gold,58
+CUST_1543,Louise,Mertens,Belgium,Leuven,louise.mertens@hotmail.com,8/6/2023,None,69
+CUST_1544,Sophie,de Vries,Netherlands,The Hague,sophie.devries@icloud.com,3/20/2024,Silver,49
+CUST_1545,Lars,De Smet,Belgium,Leuven,lars.desmet@gmail.com,11/27/2024,None,51
+CUST_1546,Emma,Bakker,Netherlands,Amsterdam,EMMA.BAKKER@HOTMAIL.COM,8/19/2024,None,24
+CUST_1547,Gabriel,Michel,France,Toulouse,GABRIEL.MICHEL@ICLOUD.COM,4/30/2025,None,68
+CUST_1548,Julia,Visser,Netherlands,The Hague,JULIA.VISSER@GMAIL.COM,11/13/2022,None,41
+CUST_1549,Louise,Lefebvre,France,Lille,louise.lefebvre@gmail.com,11/21/2023,Platinum,66
+CUST_1550,Emma,Jacobs,Belgium,Ghent,emma.jacobs@hotmail.com,2/19/2024,Gold,58
+CUST_1551,Julia,Jansen,Netherlands,Eindhoven,julia.jansen@gmail.com,12/10/2024,Gold,70
+CUST_1552,Alice,Dubois,France,Nice,ALICE.DUBOIS@HOTMAIL.COM,9/23/2023,None,30
+CUST_1553,Emma,Martin,Luxembourg,Esch-sur-Alzette,emma.martin@gmail.com,3/12/2023,Silver,41
+CUST_1554,Lucas,Maes,Belgium,Brussels,lucas.maes@outlook.com,7/8/2024,None,
+CUST_1555,Marie,Martin,Luxembourg,Esch-sur-Alzette,marie.martin@hotmail.com,5/9/2021,Gold,
+CUST_1556,Gabriel,Mertens,Luxembourg,Esch-sur-Alzette,gabriel.mertens@yahoo.com,1/29/2024,,42
+CUST_1557,Noah,Jansen,Netherlands,Utrecht,noah.jansen@outlook.com,4/7/2021,None,41
+CUST_1558,Liam,Visser,Netherlands,Eindhoven,liam.visser@yahoo.com,9/26/2024,Gold,33
+CUST_1559,Sofie,Maes,Belgium,Leuven,sofie.maes@outlook.com,12/19/2024,Platinum,43
+CUST_1560,Julia,van den Berg,Netherlands,Eindhoven,JULIA.VANDENBERG@OUTLOOK.COM,,None,32
+CUST_1561,Gabriel,Martin,France,Lille,gabriel.martin@icloud.com,8/29/2023,Gold,59
+CUST_1562,Jules,De Smet,Luxembourg,Luxembourg City,JULES.DESMET@HOTMAIL.COM,9/23/2022,,
+CUST_1563,Anna,de Vries,Netherlands,Amsterdam,anna.devriesyahoo.com,3/31/2022,Gold,40
+CUST_1564,Emma,Willems,Belgium,Bruges,emma.willems@gmail.com,5/20/2024,Platinum,26
+CUST_1565,Paul,Meyer,Germany,Frankfurt,PAUL.MEYER@YAHOO.COM,9/23/2022,Silver,58
+CUST_1566,Anna,Visser,Netherlands,The Hague,anna.visser@hotmail.com,5/19/2023,Gold,49
+CUST_1567,Lucas,Maes,Luxembourg,Luxembourg City,lucas.maes@yahoo.com,5/16/2021,None,60
+CUST_1568,Sofie,Jacobs,Belgium,Liège,sofie.jacobs@yahoo.com,3/27/2025,Gold,35
+CUST_1569,Leon,Weber,Germany,Frankfurt,leon.weber@gmail.com,10/9/2023,Gold,52
+CUST_1570,Sofie,Peeters,Belgium,Ghent,sofie.peeters@yahoo.com,9/1/2024,None,41
+CUST_1571,Anna,Visser,Netherlands,Rotterdam,anna.visser@gmail.com,5/17/2021,,46
+CUST_1572,Finn,Wagner,Germany,Hamburg,finn.wagner@hotmail.com,2/10/2025,Gold,39
+CUST_1573,Emma,Maes,Luxembourg,Esch-sur-Alzette,EMMA.MAES@HOTMAIL.COM,7/13/2022,Platinum,63
+CUST_1574,Marie,Maes,Belgium,Leuven,marie.maes@gmail.com,7/13/2021,,33
+CUST_1575,Alice,Lefebvre,France,Lille,alice.lefebvre@yahoo.com,12/31/2023,Silver,32
+CUST_1576,Noah,de Vries,Netherlands,The Hague,noah.devries@hotmail.com,11/13/2021,,35
+CUST_1577,Noah,Mertens,Luxembourg,Esch-sur-Alzette,NOAH.MERTENS@GMAIL.COM,,Platinum,67
+CUST_1578,Anna,Bakker,Netherlands,Eindhoven,anna.bakker@yahoo.com,8/31/2021,Gold,67
+CUST_1579,Noah,Jansen,Netherlands,Rotterdam,noah.jansen@outlook.com,8/17/2021,None,53
+CUST_1580,Noah,Janssens,Belgium,Brussels,noah.janssens@icloud.com,3/30/2021,Silver,65
+CUST_1581,Emma,Willems,Belgium,Antwerp,emma.willems@icloud.com,7/5/2021,Platinum,70
+CUST_1582,Louise,De Smet,Luxembourg,Luxembourg City,louise.desmet@icloud.com,5/20/2021,Silver,60
+CUST_1583,Louise,Simon,Luxembourg,Luxembourg City,louise.simon@yahoo.com,,,36
+CUST_1584,Mia,Meyer,Germany,Cologne,mia.meyer@outlook.com,12/28/2022,Gold,50
+CUST_1585,Lars,Mertens,Luxembourg,Luxembourg City,LARS.MERTENS@YAHOO.COM,4/11/2025,,41
+CUST_1586,Emma,Maes,Belgium,Bruges,emma.maes@gmail.com,11/8/2024,Gold,51
+CUST_1587,Alice,Willems,Luxembourg,Esch-sur-Alzette,alice.willems@outlook.com,10/22/2024,None,23
+CUST_1588,Louise,Jacobs,Belgium,Leuven,louise.jacobs@gmail.com,7/28/2021,Silver,33
+CUST_1589,Louise,Dubois,France,Lyon,louise.dubois@icloud.com,5/20/2023,,40
+CUST_1590,Louis,Michel,Luxembourg,Esch-sur-Alzette,louis.michel@yahoo.com,9/20/2023,None,32
+CUST_1591,Emma,Maes,Belgium,Bruges,emma.maes@hotmail.com,,None,27
+CUST_1592,Lucas,Jacobs,Belgium,Leuven,lucas.jacobs@yahoo.com,6/6/2021,None,56
+CUST_1593,Hannah,Schneider,Germany,Stuttgart,hannah.schneider@hotmail.com,10/27/2025,Silver,24
+CUST_1594,Emma,Fischer,Germany,Frankfurt,emma.fischer@yahoo.com,,Platinum,65
+CUST_1595,Anna,van den Berg,Netherlands,Rotterdam,anna.vandenberg@yahoo.com,10/14/2024,,58
+CUST_1596,Chloé,Martin,Luxembourg,Luxembourg City,chloé.martinicloud.com,2/13/2023,Platinum,45
+CUST_1597,Louis,Martin,France,Nice,louis.martin@gmail.com,4/10/2024,Platinum,
+CUST_1598,Emma,Fischer,Germany,Hamburg,EMMA.FISCHER@YAHOO.COM,4/26/2022,Silver,60
+CUST_1599,Marie,Janssens,Belgium,Ghent,,11/4/2025,None,55
+CUST_1600,Louis,Michel,France,Toulouse,,10/23/2022,Silver,54
+CUST_1601,Julia,van den Berg,Netherlands,Eindhoven,julia.vandenberg@yahoo.com,2/18/2022,,27
+CUST_1602,Noah,de Vries,Netherlands,Amsterdam,noah.devries@yahoo.com,3/2/2025,,68
+CUST_1603,Thomas,Maes,Belgium,Brussels,thomas.maes@icloud.com,6/18/2025,,42
+CUST_1604,Jules,Michel,France,Nice,jules.michel@yahoo.com,7/18/2023,Gold,58
+CUST_1605,Lucas,Willems,Belgium,Bruges,lucas.willems@outlook.com,7/3/2022,,57
+CUST_1606,Ben,Weber,Germany,Munich,ben.weber@yahoo.com,4/17/2025,None,50
+CUST_1607,Emma,Michel,France,Lyon,emma.michel@hotmail.com,11/7/2024,Gold,48
+CUST_1608,Lucas,Peeters,Belgium,Brussels,lucas.peeters@outlook.com,6/13/2023,Gold,25
+CUST_1609,Noah,Jansen,Netherlands,Amsterdam,noah.jansen@yahoo.com,8/12/2024,None,69
+CUST_1610,Sofie,Mertens,Belgium,Brussels,sofie.mertens@yahoo.com,4/14/2023,Silver,65
+CUST_1611,Paul,Schmidt,Germany,Berlin,paul.schmidt@icloud.com,8/25/2025,Platinum,56
+CUST_1612,Emma,Schmidt,Germany,Cologne,emma.schmidt@gmail.com,2/18/2025,Gold,70
+CUST_1613,Hannah,Schmidt,Germany,Berlin,hannah.schmidt@outlook.com,11/3/2025,,54
+CUST_1614,Emma,Dubois,France,Nice,emma.dubois@hotmail.com,5/26/2025,None,46
+CUST_1615,Arthur,Martin,France,Lille,arthur.martinicloud.com,4/22/2021,Gold,65
+CUST_1616,Jules,Dubois,France,Lille,jules.dubois@yahoo.com,4/30/2022,Silver,47
+CUST_1617,Leon,Schneider,Germany,Berlin,leon.schneider@outlook.com,6/18/2023,None,64
+CUST_1618,Marie,Mertens,Belgium,Brussels,marie.mertens@hotmail.com,1/9/2025,Gold,29
+CUST_1619,Emma,Dubois,France,Toulouse,emma.dubois@icloud.com,11/24/2024,Silver,
+CUST_1620,Anna,Visser,Netherlands,Rotterdam,anna.visser@gmail.com,6/18/2021,,38
+CUST_1621,Lucas,de Vries,Netherlands,The Hague,LUCAS.DEVRIES@HOTMAIL.COM,4/29/2024,Gold,41
+CUST_1622,Louise,Maes,Belgium,Antwerp,louise.maes@hotmail.com,4/5/2022,Silver,
+CUST_1623,Lars,Peeters,Luxembourg,Esch-sur-Alzette,lars.peeters@outlook.com,,Platinum,61
+CUST_1624,Emma,de Vries,Netherlands,Rotterdam,emma.devries@icloud.com,7/19/2023,Silver,54
+CUST_1625,Sophie,Jansen,Netherlands,Utrecht,sophie.jansen@yahoo.com,2/28/2022,Gold,41
+CUST_1626,Paul,Fischer,Germany,Munich,paul.fischer@gmail.com,5/24/2022,None,66
+CUST_1627,Sofie,Jacobs,Belgium,Antwerp,sofie.jacobs@yahoo.com,2/25/2023,,70
+CUST_1628,Emma,Martin,France,Nice,emma.martingmail.com,12/27/2022,,65
+CUST_1629,Sofie,Maes,Belgium,Leuven,sofie.maes@icloud.com,9/28/2021,Silver,58
+CUST_1630,Thomas,Willems,Luxembourg,Luxembourg City,thomas.willems@icloud.com,7/3/2021,None,56
+CUST_1631,Noah,de Jong,Netherlands,Utrecht,noah.dejong@gmail.com,7/30/2022,Platinum,50
+CUST_1632,Arthur,Simon,France,Marseille,arthur.simon@hotmail.com,4/14/2025,None,58
+CUST_1633,Noah,Peeters,Belgium,Brussels,noah.peeters@outlook.com,8/15/2023,Silver,54
+CUST_1634,Mia,Meyer,Germany,Cologne,MIA.MEYER@HOTMAIL.COM,10/31/2021,Gold,28
+CUST_1635,Gabriel,Lefebvre,France,Lyon,gabriel.lefebvre@icloud.com,3/11/2022,,23
+CUST_1636,Thomas,Mertens,Luxembourg,Luxembourg City,thomas.mertens@outlook.com,2/23/2021,Silver,66
+CUST_1637,Mia,Weber,Germany,Berlin,MIA.WEBER@YAHOO.COM,9/12/2024,Platinum,63
+CUST_1638,Sofie,De Smet,Luxembourg,Luxembourg City,sofie.desmet@icloud.com,2/12/2025,Gold,59
+CUST_1639,Daan,Visser,Netherlands,Utrecht,daan.visser@yahoo.com,5/18/2024,Platinum,48
+CUST_1640,Sophie,van den Berg,Netherlands,Amsterdam,sophie.vandenberg@gmail.com,8/7/2022,Gold,64
+CUST_1641,Marie,Jacobs,Belgium,Bruges,marie.jacobs@yahoo.com,7/16/2021,Gold,55
+CUST_1642,Sophia,Fischer,Germany,Frankfurt,sophia.fischer@yahoo.com,7/19/2025,None,34
+CUST_1643,Emma,Müller,Germany,Cologne,emma.müller@yahoo.com,1/1/2025,,54
+CUST_1644,Lucas,Willems,Luxembourg,Esch-sur-Alzette,lucas.willemshotmail.com,9/19/2021,Gold,42
+CUST_1645,Alice,Willems,Luxembourg,Luxembourg City,ALICE.WILLEMSICLOUD.COM,5/21/2023,,52
+CUST_1646,Alice,Dubois,France,Nice,ALICE.DUBOIS@GMAIL.COM,8/6/2023,None,34
+CUST_1647,Emma,Jacobs,Belgium,Liège,emma.jacobs@yahoo.com,7/11/2023,Platinum,39
+CUST_1648,Sophie,Jansen,Netherlands,Amsterdam,sophie.jansen@icloud.com,2/6/2021,Silver,
+CUST_1649,Lucas,De Smet,Belgium,Bruges,lucas.desmet@hotmail.com,5/17/2024,,42
+CUST_1650,Louise,Simon,Luxembourg,Esch-sur-Alzette,LOUISE.SIMON@YAHOO.COM,7/30/2025,Gold,
+CUST_1651,Noah,Jacobs,Belgium,Liège,noah.jacobs@outlook.com,6/6/2025,Platinum,28
+CUST_1652,Paul,Fischer,Germany,Frankfurt,paul.fischer@gmail.com,7/1/2023,Silver,53
+CUST_1653,Hannah,Schmidt,Germany,Hamburg,hannah.schmidt@icloud.com,7/30/2021,None,68
+CUST_1654,Sophia,Meyer,Germany,Cologne,sophia.meyer@icloud.com,,,55
+CUST_1655,Chloé,Jacobs,Luxembourg,Luxembourg City,,7/3/2022,None,49
+CUST_1656,Lars,Willems,Belgium,Liège,lars.willems@yahoo.com,1/27/2025,None,45
+CUST_1657,Sophie,Bakker,Netherlands,Utrecht,sophie.bakker@icloud.com,8/24/2022,None,47
+CUST_1658,Chloé,Lefebvre,France,Lyon,chloé.lefebvre@icloud.com,9/16/2023,Gold,35
+CUST_1659,Chloé,Peeters,Luxembourg,Esch-sur-Alzette,chloé.peeters@hotmail.com,,Platinum,
+CUST_1660,Gabriel,Bernard,France,Nice,gabriel.bernard@gmail.com,4/10/2022,None,37
+CUST_1661,Alice,Lefebvre,France,Marseille,alice.lefebvre@gmail.com,10/14/2025,,55
+CUST_1662,Sofie,Jacobs,Belgium,Bruges,sofie.jacobs@gmail.com,10/24/2025,Silver,58
+CUST_1663,Noah,Maes,Luxembourg,Luxembourg City,noah.maes@outlook.com,6/24/2023,Silver,54
+CUST_1664,Julia,de Vries,Netherlands,Rotterdam,julia.devries@gmail.com,4/24/2025,None,
+CUST_1665,Arthur,Simon,France,Lyon,arthur.simon@gmail.com,7/13/2024,,32
+CUST_1666,Hannah,Schmidt,Germany,Frankfurt,hannah.schmidt@hotmail.com,11/24/2023,Silver,46
+CUST_1667,Paul,Wagner,Germany,Berlin,PAUL.WAGNER@ICLOUD.COM,5/1/2025,None,26
+CUST_1668,Lucas,Willems,Belgium,Brussels,lucas.willems@icloud.com,12/6/2024,Platinum,42
+CUST_1669,Louis,Lefebvre,France,Marseille,LOUIS.LEFEBVRE@ICLOUD.COM,8/11/2024,,57
+CUST_1670,Jules,Simon,Luxembourg,Esch-sur-Alzette,jules.simon@hotmail.com,1/6/2024,Gold,69
+CUST_1671,Emma,Jacobs,Luxembourg,Luxembourg City,emma.jacobs@icloud.com,11/24/2021,,
+CUST_1672,Louis,Jacobs,Luxembourg,Esch-sur-Alzette,LOUIS.JACOBS@HOTMAIL.COM,2/3/2023,Platinum,55
+CUST_1673,Sofie,Mertens,Belgium,Liège,sofie.mertens@gmail.com,,,38
+CUST_1674,Lars,De Smet,Luxembourg,Esch-sur-Alzette,lars.desmet@yahoo.com,10/14/2021,Gold,56
+CUST_1675,Thomas,Willems,Belgium,Leuven,thomas.willems@outlook.com,12/28/2024,Silver,49
+CUST_1676,Sofie,Jacobs,Belgium,Antwerp,SOFIE.JACOBS@HOTMAIL.COM,4/5/2023,None,56
+CUST_1677,Chloé,Michel,France,Toulouse,chloé.michel@hotmail.com,5/4/2023,,32
+CUST_1678,Anna,Visser,Netherlands,The Hague,anna.visser@outlook.com,11/23/2024,Silver,53
+CUST_1679,Julia,de Jong,Netherlands,Eindhoven,julia.dejong@hotmail.com,12/7/2023,Platinum,46
+CUST_1680,Arthur,Dubois,France,Toulouse,ARTHUR.DUBOIS@GMAIL.COM,4/10/2021,Platinum,42
+CUST_1681,Liam,Visser,Netherlands,The Hague,liam.visser@gmail.com,5/6/2023,,42
+CUST_1682,Mia,Wagner,Germany,Frankfurt,mia.wagner@hotmail.com,10/11/2021,None,52
+CUST_1683,Paul,Wagner,Germany,Stuttgart,paul.wagner@yahoo.com,3/5/2023,Platinum,48
+CUST_1684,Emma,Laurent,Luxembourg,Esch-sur-Alzette,emma.laurent@yahoo.com,3/17/2024,Platinum,68
+CUST_1685,Noah,Laurent,Luxembourg,Luxembourg City,noah.laurent@outlook.com,3/13/2024,,53
+CUST_1686,Emma,De Smet,Belgium,Leuven,emma.desmet@outlook.com,8/27/2025,None,60
+CUST_1687,Thomas,Jacobs,Belgium,Leuven,thomas.jacobs@gmail.com,1/5/2022,Platinum,56
+CUST_1688,Leon,Müller,Germany,Berlin,leon.müller@gmail.com,4/23/2025,None,42
+CUST_1689,Daan,Bakker,Netherlands,Utrecht,,10/18/2022,Platinum,43
+CUST_1690,Emma,Müller,Germany,Munich,emma.müller@outlook.com,3/21/2025,Platinum,30
+CUST_1691,Thomas,Jacobs,Belgium,Leuven,THOMAS.JACOBSHOTMAIL.COM,2/8/2021,Silver,60
+CUST_1692,Liam,de Vries,Netherlands,Eindhoven,liam.devries@hotmail.com,5/23/2025,,46
+CUST_1693,Sophie,Bakker,Netherlands,The Hague,SOPHIE.BAKKER@ICLOUD.COM,8/26/2025,Gold,64
+CUST_1694,Sofie,Jacobs,Belgium,Ghent,sofie.jacobs@icloud.com,9/22/2025,,60
+CUST_1695,Louis,Bernard,France,Lille,louis.bernard@icloud.com,9/9/2021,,69
+CUST_1696,Jules,Bernard,France,Nice,jules.bernard@icloud.com,12/3/2022,None,68
+CUST_1697,Louise,Michel,France,Marseille,louise.michel@yahoo.com,11/17/2024,,23
+CUST_1698,Ben,Müller,Germany,Stuttgart,ben.müller@outlook.com,4/11/2025,Silver,28
+CUST_1699,Sofie,Lefebvre,Luxembourg,Esch-sur-Alzette,sofie.lefebvre@gmail.com,1/4/2023,Silver,67
+CUST_1700,Lars,Maes,Belgium,Antwerp,,10/25/2024,Gold,45
+CUST_1701,Marie,Mertens,Belgium,Liège,marie.mertens@outlook.com,7/29/2022,,68
+CUST_1702,Daan,Jansen,Netherlands,The Hague,daan.jansen@gmail.com,2/5/2024,,70
+CUST_1703,Thomas,Peeters,Luxembourg,Luxembourg City,thomas.peeters@gmail.com,12/8/2023,Gold,40
+CUST_1704,Marie,De Smet,Belgium,Leuven,,8/24/2024,None,43
+CUST_1705,Leon,Müller,Germany,Stuttgart,leon.müller@icloud.com,1/17/2025,None,40
+CUST_1706,Jules,De Smet,Luxembourg,Luxembourg City,JULES.DESMET@HOTMAIL.COM,2/21/2021,None,37
+CUST_1707,Noah,Peeters,Belgium,Antwerp,noah.peeters@yahoo.com,9/10/2023,,24
+CUST_1708,Arthur,Bernard,France,Paris,arthur.bernard@hotmail.com,11/15/2022,Silver,38
+CUST_1709,Jules,Michel,Luxembourg,Luxembourg City,JULES.MICHEL@HOTMAIL.COM,3/10/2021,Silver,67
+CUST_1710,Daan,van den Berg,Netherlands,Amsterdam,daan.vandenberg@yahoo.com,4/25/2021,None,41
+CUST_1711,Emma,Weber,Germany,Frankfurt,emma.weber@outlook.com,7/18/2023,,50
+CUST_1712,Noah,De Smet,Luxembourg,Luxembourg City,noah.desmet@hotmail.com,1/26/2021,,27
+CUST_1713,Liam,Visser,Netherlands,Eindhoven,liam.visser@yahoo.com,1/16/2022,Silver,25
+CUST_1714,Noah,Bakker,Netherlands,The Hague,noah.bakker@icloud.com,1/14/2024,None,32
+CUST_1715,Alice,Dubois,France,Marseille,alice.dubois@gmail.com,5/2/2022,Silver,58
+CUST_1716,Mia,Schmidt,Germany,Munich,mia.schmidt@outlook.com,11/23/2024,,52
+CUST_1717,Alice,Simon,France,Marseille,ALICE.SIMON@HOTMAIL.COM,3/28/2021,Gold,23
+CUST_1718,Anna,Bakker,Netherlands,Rotterdam,anna.bakker@outlook.com,7/12/2025,None,36
+CUST_1719,Daan,de Vries,Netherlands,Amsterdam,daan.devries@gmail.com,6/21/2023,Platinum,60
+CUST_1720,Sofie,Peeters,Belgium,Antwerp,sofie.peeters@yahoo.com,11/27/2022,Gold,38
+CUST_1721,Daan,Jansen,Netherlands,Utrecht,,6/1/2025,Gold,44
+CUST_1722,Chloé,Bernard,France,Marseille,chloé.bernard@yahoo.com,6/30/2024,Silver,68
+CUST_1723,Lucas,Peeters,Belgium,Antwerp,lucas.peeters@outlook.com,5/30/2023,Silver,38
+CUST_1724,Louise,Lefebvre,Luxembourg,Esch-sur-Alzette,LOUISE.LEFEBVRE@OUTLOOK.COM,9/16/2021,None,60
+CUST_1725,Emma,van den Berg,Netherlands,Eindhoven,emma.vandenberg@gmail.com,3/19/2025,,54
+CUST_1726,Paul,Schneider,Germany,Stuttgart,paul.schneider@yahoo.com,8/29/2023,,48
+CUST_1727,Noah,Peeters,Belgium,Antwerp,noah.peeters@hotmail.com,2/12/2023,Platinum,46
+CUST_1728,Lucas,Maes,Luxembourg,Luxembourg City,lucas.maes@yahoo.com,8/11/2023,None,44
+CUST_1729,Sophia,Fischer,Germany,Frankfurt,sophia.fischer@yahoo.com,1/3/2022,Silver,39
+CUST_1730,Emma,Dubois,France,Nice,EMMA.DUBOIS@ICLOUD.COM,4/12/2022,Platinum,27
+CUST_1731,Noah,Maes,Belgium,Antwerp,noah.maes@yahoo.com,9/28/2025,,68
+CUST_1732,Noah,de Jong,Netherlands,Utrecht,noah.dejong@yahoo.com,4/11/2023,Silver,64
+CUST_1733,Paul,Wagner,Germany,Frankfurt,paul.wagner@outlook.com,11/23/2023,None,58
+CUST_1734,Mia,Wagner,Germany,Berlin,mia.wagner@yahoo.com,5/6/2023,,51
+CUST_1735,Thomas,Peeters,Belgium,Leuven,thomas.peeters@outlook.com,9/11/2024,Gold,44
+CUST_1736,Finn,Meyer,Germany,Frankfurt,finn.meyer@icloud.com,3/7/2021,Platinum,32
+CUST_1737,Arthur,Mertens,Luxembourg,Luxembourg City,arthur.mertenshotmail.com,11/5/2022,Platinum,51
+CUST_1738,Lucas,Janssens,Belgium,Liège,lucas.janssens@icloud.com,2/24/2021,None,27
+CUST_1739,Louise,Bernard,France,Marseille,LOUISE.BERNARDICLOUD.COM,12/18/2021,None,49
+CUST_1740,Emma,Jansen,Netherlands,Eindhoven,EMMA.JANSEN@HOTMAIL.COM,2/27/2022,Platinum,36
+CUST_1741,Sophia,Schmidt,Germany,Cologne,sophia.schmidt@icloud.com,11/3/2024,Silver,35
+CUST_1742,Anna,de Jong,Netherlands,The Hague,anna.dejong@icloud.com,10/3/2023,Silver,59
+CUST_1743,Marie,De Smet,Belgium,Bruges,marie.desmet@yahoo.com,6/9/2024,None,34
+CUST_1744,Liam,Bakker,Netherlands,The Hague,liam.bakker@hotmail.com,7/15/2021,Gold,25
+CUST_1745,Noah,Visser,Netherlands,Eindhoven,NOAH.VISSER@YAHOO.COM,3/21/2022,,49
+CUST_1746,Thomas,Janssens,Belgium,Brussels,thomas.janssens@icloud.com,6/2/2022,None,25
+CUST_1747,Emma,De Smet,Belgium,Liège,emma.desmet@hotmail.com,3/24/2023,Silver,39
+CUST_1748,Julia,Visser,Netherlands,The Hague,JULIA.VISSER@HOTMAIL.COM,1/1/2025,None,31
+CUST_1749,Gabriel,Bernard,France,Paris,gabriel.bernard@icloud.com,3/12/2023,Silver,65
+CUST_1750,Gabriel,Laurent,France,Marseille,GABRIEL.LAURENT@OUTLOOK.COM,3/19/2022,,26
+CUST_1751,Louise,De Smet,Belgium,Ghent,LOUISE.DESMETHOTMAIL.COM,4/21/2025,Platinum,38
+CUST_1752,Sophie,de Jong,Netherlands,Amsterdam,,10/24/2024,Silver,37
+CUST_1753,Liam,de Jong,Netherlands,The Hague,liam.dejong@icloud.com,1/24/2022,None,57
+CUST_1754,Emma,Schmidt,Germany,Munich,emma.schmidt@gmail.com,10/10/2022,Gold,
+CUST_1755,Hannah,Müller,Germany,Stuttgart,hannah.müller@yahoo.com,3/24/2022,None,61
+CUST_1756,Lucas,Maes,Belgium,Brussels,lucas.maes@icloud.com,4/29/2025,Gold,44
+CUST_1757,Chloé,Martin,France,Marseille,chloé.martin@gmail.com,8/4/2024,,55
+CUST_1758,Noah,Janssens,Belgium,Leuven,noah.janssens@gmail.com,6/23/2024,Platinum,31
+CUST_1759,Leon,Schmidt,Germany,Munich,LEON.SCHMIDT@HOTMAIL.COM,5/9/2024,Platinum,51
+CUST_1760,Noah,de Vries,Netherlands,Amsterdam,noah.devries@icloud.com,3/18/2025,Platinum,
+CUST_1761,Louise,Bernard,France,Nice,louise.bernard@gmail.com,11/8/2024,,37
+CUST_1762,Mia,Schmidt,Germany,Frankfurt,mia.schmidtgmail.com,4/17/2021,Gold,32
+CUST_1763,Emma,Jansen,Netherlands,Eindhoven,emma.jansen@icloud.com,6/10/2021,Platinum,52
+CUST_1764,Sophie,Jansen,Netherlands,The Hague,sophie.jansen@outlook.com,7/25/2024,Silver,53
+CUST_1765,Jules,Laurent,France,Lyon,jules.laurent@hotmail.com,4/7/2025,Silver,53
+CUST_1766,Finn,Wagner,Germany,Berlin,finn.wagner@yahoo.com,6/11/2022,None,42
+CUST_1767,Jules,Simon,France,Nice,JULES.SIMONHOTMAIL.COM,11/13/2021,Silver,23
+CUST_1768,Louise,Martin,Luxembourg,Esch-sur-Alzette,louise.martin@hotmail.com,9/30/2023,Silver,60
+CUST_1769,Ben,Müller,Germany,Frankfurt,ben.müller@icloud.com,4/29/2025,Platinum,69
+CUST_1770,Chloé,Laurent,Luxembourg,Esch-sur-Alzette,chloé.laurent@gmail.com,5/12/2022,Silver,46
+CUST_1771,Noah,Bakker,Netherlands,The Hague,noah.bakker@outlook.com,9/20/2025,Silver,30
+CUST_1772,Finn,Meyer,Germany,Cologne,finn.meyer@gmail.com,8/27/2025,Platinum,67
+CUST_1773,Arthur,Dubois,Luxembourg,Esch-sur-Alzette,arthur.dubois@hotmail.com,8/12/2021,Gold,45
+CUST_1774,Louise,Michel,France,Toulouse,,7/18/2021,None,67
+CUST_1775,Alice,Laurent,Luxembourg,Esch-sur-Alzette,alice.laurent@hotmail.com,2/10/2022,Silver,55
+CUST_1776,Hannah,Schmidt,Germany,Munich,hannah.schmidt@gmail.com,4/18/2023,Silver,62
+CUST_1777,Emma,de Vries,Netherlands,Amsterdam,EMMA.DEVRIES@HOTMAIL.COM,,Silver,54
+CUST_1778,Sofie,Maes,Belgium,Brussels,SOFIE.MAES@ICLOUD.COM,6/10/2025,,
+CUST_1779,Louis,Martin,Luxembourg,Esch-sur-Alzette,louis.martin@yahoo.com,12/4/2022,Platinum,38
+CUST_1780,Finn,Weber,Germany,Berlin,finn.weber@yahoo.com,,Gold,48
+CUST_1781,Emma,Mertens,Belgium,Leuven,emma.mertens@yahoo.com,7/15/2023,None,65
+CUST_1782,Alice,Laurent,Luxembourg,Luxembourg City,alice.laurent@gmail.com,2/4/2021,Platinum,25
+CUST_1783,Hannah,Weber,Germany,Frankfurt,hannah.weber@hotmail.com,9/3/2023,Silver,67
+CUST_1784,Leon,Weber,Germany,Munich,leon.weber@outlook.com,1/7/2025,None,31
+CUST_1785,Marie,Mertens,Belgium,Liège,marie.mertens@icloud.com,8/25/2021,Gold,57
+CUST_1786,Sophie,Jansen,Netherlands,Amsterdam,sophie.jansen@gmail.com,10/31/2022,Gold,40
+CUST_1787,Chloé,Michel,France,Paris,chloé.michel@outlook.com,6/18/2025,,37
+CUST_1788,Lucas,Laurent,Luxembourg,Esch-sur-Alzette,lucas.laurent@hotmail.com,9/1/2024,None,58
+CUST_1789,Sophie,de Vries,Netherlands,Amsterdam,SOPHIE.DEVRIES@YAHOO.COM,1/21/2022,,30
+CUST_1790,Gabriel,Lefebvre,France,Marseille,GABRIEL.LEFEBVRE@HOTMAIL.COM,1/2/2024,None,47
+CUST_1791,Alice,Lefebvre,France,Lille,alice.lefebvre@outlook.com,3/21/2023,None,
+CUST_1792,Gabriel,Lefebvre,France,Marseille,gabriel.lefebvre@outlook.com,10/26/2021,Silver,67
+CUST_1793,Gabriel,Willems,Luxembourg,Luxembourg City,gabriel.willems@yahoo.com,8/25/2025,None,41
+CUST_1794,Thomas,Peeters,Belgium,Liège,thomas.peeters@outlook.com,2/15/2025,None,34
+CUST_1795,Leon,Wagner,Germany,Stuttgart,leon.wagner@outlook.com,10/20/2024,None,45
+CUST_1796,Emma,Weber,Germany,Stuttgart,emma.weber@yahoo.com,1/28/2024,Platinum,31
+CUST_1797,Emma,Lefebvre,Luxembourg,Esch-sur-Alzette,emma.lefebvre@hotmail.com,9/16/2023,Gold,32
+CUST_1798,Sophie,Visser,Netherlands,Amsterdam,sophie.visser@yahoo.com,10/25/2025,Gold,50
+CUST_1799,Emma,Maes,Belgium,Bruges,EMMA.MAES@OUTLOOK.COM,11/25/2022,None,32
+CUST_1800,Daan,de Jong,Netherlands,Rotterdam,daan.dejong@hotmail.com,8/29/2024,Silver,67
+CUST_1801,Finn,Schneider,Germany,Stuttgart,FINN.SCHNEIDER@HOTMAIL.COM,9/29/2023,Gold,55
+CUST_1802,Lars,Maes,Belgium,Liège,lars.maes@gmail.com,8/13/2024,,42
+CUST_1803,Emma,de Vries,Netherlands,Amsterdam,emma.devries@icloud.com,,,57
+CUST_1804,Emma,Weber,Germany,Cologne,emma.weber@icloud.com,3/23/2025,Silver,65
+CUST_1805,Liam,de Jong,Netherlands,Eindhoven,LIAM.DEJONG@HOTMAIL.COM,2/27/2022,,28
+CUST_1806,Louis,Martin,France,Paris,louis.martin@icloud.com,9/9/2024,Platinum,
+CUST_1807,Marie,De Smet,Belgium,Leuven,marie.desmet@hotmail.com,12/23/2022,Gold,55
+CUST_1808,Sofie,Peeters,Belgium,Brussels,sofie.peeters@outlook.com,10/2/2021,,36
+CUST_1809,Arthur,Bernard,France,Lille,arthur.bernard@icloud.com,8/23/2024,None,48
+CUST_1810,Marie,De Smet,Belgium,Bruges,MARIE.DESMET@OUTLOOK.COM,7/20/2024,Platinum,35
+CUST_1811,Thomas,Mertens,Luxembourg,Luxembourg City,thomas.mertens@yahoo.com,,Platinum,27
+CUST_1812,Emma,De Smet,Belgium,Leuven,emma.desmethotmail.com,11/15/2022,Gold,32
+CUST_1813,Louis,Martin,France,Toulouse,LOUIS.MARTIN@OUTLOOK.COM,12/26/2021,,42
+CUST_1814,Emma,Weber,Germany,Hamburg,emma.weber@icloud.com,4/9/2021,Gold,47
+CUST_1815,Jules,Laurent,France,Nice,jules.laurent@outlook.com,9/8/2024,,47
+CUST_1816,Louis,Michel,France,Lille,louis.michel@yahoo.com,12/18/2024,Platinum,51
+CUST_1817,Leon,Schneider,Germany,Frankfurt,leon.schneider@icloud.com,9/18/2022,Platinum,28
+CUST_1818,Mia,Wagner,Germany,Berlin,mia.wagnergmail.com,3/24/2024,Platinum,70
+CUST_1819,Chloé,Michel,Luxembourg,Luxembourg City,chloé.michel@hotmail.com,10/17/2023,,66
+CUST_1820,Louise,Janssens,Belgium,Leuven,louise.janssens@outlook.com,12/9/2024,Gold,45
+CUST_1821,Emma,Dubois,Luxembourg,Esch-sur-Alzette,emma.dubois@outlook.com,4/6/2022,Gold,46
+CUST_1822,Louise,Janssens,Luxembourg,Esch-sur-Alzette,louise.janssens@hotmail.com,10/22/2024,Silver,57
+CUST_1823,Arthur,Laurent,France,Marseille,arthur.laurent@yahoo.com,3/22/2022,,64
+CUST_1824,Lars,Willems,Belgium,Bruges,lars.willems@gmail.com,12/26/2022,Gold,45
+CUST_1825,Mia,Müller,Germany,Berlin,MIA.MÜLLER@HOTMAIL.COM,11/11/2021,Silver,54
+CUST_1826,Noah,Jansen,Netherlands,The Hague,noah.jansen@hotmail.com,1/4/2024,None,29
+CUST_1827,Paul,Schmidt,Germany,Hamburg,,8/15/2021,Gold,25
+CUST_1828,Finn,Meyer,Germany,Hamburg,finn.meyer@gmail.com,9/24/2024,None,30
+CUST_1829,Sophia,Wagner,Germany,Stuttgart,sophia.wagner@outlook.com,10/25/2023,None,70
+CUST_1830,Emma,de Jong,Netherlands,Amsterdam,emma.dejong@outlook.com,4/30/2022,None,44
+CUST_1831,Sofie,Mertens,Luxembourg,Esch-sur-Alzette,SOFIE.MERTENS@YAHOO.COM,6/18/2024,Gold,55
+CUST_1832,Noah,de Jong,Netherlands,Utrecht,noah.dejong@outlook.com,5/23/2025,,67
+CUST_1833,Thomas,Jacobs,Luxembourg,Luxembourg City,thomas.jacobs@outlook.com,1/29/2022,Silver,50
+CUST_1834,Louise,Peeters,Luxembourg,Luxembourg City,louise.peeters@hotmail.com,4/19/2022,None,50
+CUST_1835,Louise,De Smet,Belgium,Brussels,louise.desmet@yahoo.com,12/28/2024,Silver,43
+CUST_1836,Daan,de Jong,Netherlands,Amsterdam,daan.dejong@yahoo.com,7/26/2021,None,39
+CUST_1837,Alice,Dubois,France,Paris,alice.dubois@gmail.com,9/24/2021,Platinum,70
+CUST_1838,Louise,Jacobs,Luxembourg,Esch-sur-Alzette,LOUISE.JACOBS@OUTLOOK.COM,7/13/2024,Silver,30
+CUST_1839,Louise,Jacobs,Luxembourg,Esch-sur-Alzette,louise.jacobsgmail.com,1/25/2025,,35
+CUST_1840,Daan,Jansen,Netherlands,Rotterdam,daan.jansen@hotmail.com,10/14/2025,Platinum,58
+CUST_1841,Chloé,Michel,France,Lille,CHLOÉ.MICHEL@GMAIL.COM,10/29/2023,,33
+CUST_1842,Gabriel,Dubois,France,Paris,gabriel.duboisicloud.com,7/27/2025,,66
+CUST_1843,Lucas,Maes,Luxembourg,Esch-sur-Alzette,lucas.maes@icloud.com,7/11/2022,Gold,23
+CUST_1844,Louise,Dubois,Luxembourg,Luxembourg City,louise.dubois@icloud.com,9/14/2022,Platinum,41
+CUST_1845,Noah,Maes,Luxembourg,Luxembourg City,noah.maes@gmail.com,7/23/2022,Silver,40
+CUST_1846,Sophie,Bakker,Netherlands,Amsterdam,sophie.bakker@gmail.com,10/27/2022,,68
+CUST_1847,Gabriel,Laurent,France,Nice,GABRIEL.LAURENT@YAHOO.COM,8/15/2025,Platinum,69
+CUST_1848,Noah,de Jong,Netherlands,Eindhoven,noah.dejong@icloud.com,9/1/2024,,63
+CUST_1849,Louise,Lefebvre,Luxembourg,Esch-sur-Alzette,louise.lefebvre@outlook.com,10/24/2025,None,32
+CUST_1850,Lucas,de Vries,Netherlands,Rotterdam,lucas.devries@hotmail.com,11/2/2025,None,59
+CUST_1851,Noah,de Jong,Netherlands,Utrecht,noah.dejong@outlook.com,1/20/2022,None,27
+CUST_1852,Anna,Visser,Netherlands,The Hague,ANNA.VISSER@GMAIL.COM,1/25/2021,None,47
+CUST_1853,Emma,Mertens,Belgium,Brussels,emma.mertens@gmail.com,7/8/2024,Silver,23
+CUST_1854,Gabriel,Lefebvre,Luxembourg,Luxembourg City,gabriel.lefebvre@outlook.com,7/29/2025,None,44
+CUST_1855,Sophie,de Jong,Netherlands,Eindhoven,SOPHIE.DEJONG@YAHOO.COM,7/30/2021,,29
+CUST_1856,Paul,Müller,Germany,Munich,paul.müller@gmail.com,8/11/2022,None,66
+CUST_1857,Lars,Peeters,Belgium,Brussels,lars.peeters@outlook.com,6/14/2024,Silver,46
+CUST_1858,Lucas,Peeters,Belgium,Bruges,lucas.peeters@icloud.com,9/28/2024,Platinum,62
+CUST_1859,Emma,Dubois,France,Toulouse,emma.dubois@yahoo.com,6/6/2021,Gold,32
+CUST_1860,Gabriel,Laurent,France,Toulouse,GABRIEL.LAURENT@HOTMAIL.COM,1/28/2025,Platinum,28
+CUST_1861,Liam,van den Berg,Netherlands,Utrecht,liam.vandenberg@yahoo.com,5/17/2024,Gold,44
+CUST_1862,Lucas,van den Berg,Netherlands,Eindhoven,lucas.vandenberg@hotmail.com,4/17/2022,None,60
+CUST_1863,Lars,Simon,Luxembourg,Luxembourg City,lars.simon@outlook.com,1/13/2023,Silver,31
+CUST_1864,Thomas,Maes,Belgium,Antwerp,thomas.maes@yahoo.com,5/13/2023,Silver,37
+CUST_1865,Emma,Visser,Netherlands,Rotterdam,emma.visser@hotmail.com,4/21/2021,,65
+CUST_1866,Lars,Mertens,Belgium,Leuven,lars.mertensoutlook.com,6/7/2021,None,
+CUST_1867,Liam,van den Berg,Netherlands,Rotterdam,liam.vandenberg@icloud.com,11/22/2022,Silver,64
+CUST_1868,Emma,Bernard,France,Paris,emma.bernard@gmail.com,3/23/2023,None,66
+CUST_1869,Louis,Dubois,Luxembourg,Esch-sur-Alzette,louis.dubois@outlook.com,12/5/2023,Gold,31
+CUST_1870,Ben,Schmidt,Germany,Frankfurt,ben.schmidt@outlook.com,6/8/2021,None,52
+CUST_1871,Jules,Lefebvre,France,Toulouse,jules.lefebvreoutlook.com,7/7/2022,Platinum,27
+CUST_1872,Gabriel,Janssens,Luxembourg,Luxembourg City,GABRIEL.JANSSENS@YAHOO.COM,1/23/2021,Gold,42
+CUST_1873,Louise,Laurent,Luxembourg,Luxembourg City,louise.laurent@outlook.com,2/29/2024,Silver,53
+CUST_1874,Thomas,Janssens,Belgium,Ghent,thomas.janssens@gmail.com,10/22/2023,Platinum,48
+CUST_1875,Emma,de Vries,Netherlands,The Hague,emma.devries@icloud.com,4/17/2024,,53
+CUST_1876,Marie,Peeters,Belgium,Antwerp,marie.peetershotmail.com,4/20/2022,Gold,66
+CUST_1877,Julia,van den Berg,Netherlands,Rotterdam,julia.vandenberg@yahoo.com,3/23/2021,None,66
+CUST_1878,Sophie,Bakker,Netherlands,Eindhoven,sophie.bakker@gmail.com,7/19/2021,Platinum,32
+CUST_1879,Lucas,Martin,Luxembourg,Luxembourg City,lucas.martin@hotmail.com,7/28/2022,Silver,45
+CUST_1880,Lucas,De Smet,Belgium,Bruges,lucas.desmet@yahoo.com,6/25/2023,Silver,31
+CUST_1881,Chloé,Janssens,Luxembourg,Esch-sur-Alzette,chloé.janssens@yahoo.com,9/22/2021,,55
+CUST_1882,Alice,Martin,France,Lille,alice.martin@hotmail.com,10/29/2024,Silver,64
+CUST_1883,Daan,Jansen,Netherlands,Amsterdam,daan.jansen@yahoo.com,4/2/2022,Silver,52
+CUST_1884,Chloé,Laurent,France,Lille,chloé.laurent@icloud.com,2/7/2025,None,48
+CUST_1885,Lucas,de Vries,Netherlands,Amsterdam,lucas.devries@yahoo.com,2/27/2025,None,40
+CUST_1886,Lucas,Jacobs,Belgium,Antwerp,LUCAS.JACOBS@OUTLOOK.COM,2/18/2023,None,46
+CUST_1887,Hannah,Müller,Germany,Munich,hannah.müller@gmail.com,7/25/2024,Silver,32
+CUST_1888,Jules,Martin,France,Marseille,jules.martin@hotmail.com,6/16/2022,Silver,26
+CUST_1889,Mia,Wagner,Germany,Hamburg,mia.wagner@outlook.com,1/2/2024,None,33
+CUST_1890,Jules,Lefebvre,France,Paris,jules.lefebvre@icloud.com,9/29/2024,Platinum,32
+CUST_1891,Louis,Bernard,France,Toulouse,louis.bernard@outlook.com,10/12/2024,Silver,56
+CUST_1892,Paul,Meyer,Germany,Frankfurt,paul.meyer@icloud.com,5/11/2023,,33
+CUST_1893,Hannah,Schneider,Germany,Munich,hannah.schneider@outlook.com,,Platinum,24
+CUST_1894,Emma,Michel,France,Toulouse,emma.michel@hotmail.com,5/23/2023,Silver,44
+CUST_1895,Anna,van den Berg,Netherlands,Utrecht,anna.vandenberg@outlook.com,8/7/2022,None,67
+CUST_1896,Emma,Martin,France,Paris,emma.martin@gmail.com,10/14/2023,,62
+CUST_1897,Lars,Willems,Belgium,Leuven,lars.willems@gmail.com,5/11/2025,Silver,47
+CUST_1898,Anna,de Jong,Netherlands,Utrecht,anna.dejong@hotmail.com,2/26/2025,Gold,46
+CUST_1899,Emma,Willems,Luxembourg,Esch-sur-Alzette,emma.willems@yahoo.com,5/10/2022,None,
+CUST_1900,Sofie,Janssens,Belgium,Antwerp,sofie.janssens@yahoo.com,10/13/2022,None,59
+CUST_1901,Lucas,Jansen,Netherlands,Eindhoven,lucas.jansen@hotmail.com,9/21/2021,Gold,47
+CUST_1902,Mia,Weber,Germany,Munich,mia.weber@hotmail.com,8/31/2021,Platinum,48
+CUST_1903,Thomas,De Smet,Luxembourg,Luxembourg City,thomas.desmet@gmail.com,4/30/2024,,62
+CUST_1904,Louise,Janssens,Belgium,Liège,louise.janssens@outlook.com,1/18/2022,Platinum,37
+CUST_1905,Sophie,Visser,Netherlands,The Hague,sophie.visser@yahoo.com,7/8/2024,,
+CUST_1906,Emma,Jacobs,Belgium,Leuven,emma.jacobs@gmail.com,7/10/2021,Gold,46
+CUST_1907,Emma,Fischer,Germany,Berlin,emma.fischerhotmail.com,11/8/2024,None,43
+CUST_1908,Liam,de Vries,Netherlands,Amsterdam,liam.devries@outlook.com,8/29/2021,None,45
+CUST_1909,Sofie,Maes,Luxembourg,Esch-sur-Alzette,SOFIE.MAES@GMAIL.COM,,Gold,32
+CUST_1910,Emma,Bernard,France,Paris,EMMA.BERNARD@YAHOO.COM,9/17/2021,Gold,53
+CUST_1911,Thomas,De Smet,Belgium,Leuven,thomas.desmet@yahoo.com,3/31/2023,Gold,39
+CUST_1912,Noah,van den Berg,Netherlands,Amsterdam,noah.vandenberg@icloud.com,2/26/2022,None,54
+CUST_1913,Finn,Weber,Germany,Stuttgart,finn.weber@yahoo.com,5/30/2023,Platinum,45
+CUST_1914,Lars,Peeters,Belgium,Brussels,lars.peeters@icloud.com,8/14/2024,Platinum,56
+CUST_1915,Ben,Müller,Germany,Munich,ben.müller@yahoo.com,3/17/2022,Gold,46
+CUST_1916,Emma,Martin,France,Marseille,emma.martin@gmail.com,10/21/2022,Silver,58
+CUST_1917,Leon,Weber,Germany,Munich,leon.weber@icloud.com,7/12/2025,,27
+CUST_1918,Finn,Schneider,Germany,Hamburg,finn.schneider@outlook.com,7/17/2022,None,30
+CUST_1919,Julia,Bakker,Netherlands,The Hague,julia.bakker@outlook.com,10/20/2025,None,23
+CUST_1920,Gabriel,Lefebvre,France,Toulouse,gabriel.lefebvre@gmail.com,,None,27
+CUST_1921,Louise,De Smet,Belgium,Ghent,louise.desmet@yahoo.com,5/6/2025,Silver,62
+CUST_1922,Leon,Meyer,Germany,Frankfurt,leon.meyer@hotmail.com,2/5/2023,Silver,29
+CUST_1923,Daan,de Jong,Netherlands,Rotterdam,daan.dejong@gmail.com,4/9/2022,Platinum,35
+CUST_1924,Sofie,Simon,Luxembourg,Luxembourg City,SOFIE.SIMON@YAHOO.COM,,Platinum,39
+CUST_1925,Arthur,Willems,Luxembourg,Luxembourg City,ARTHUR.WILLEMS@OUTLOOK.COM,10/31/2021,None,49
+CUST_1926,Noah,Willems,Belgium,Bruges,noah.willems@hotmail.com,4/8/2022,Silver,41
+CUST_1927,Louise,Michel,France,Lille,LOUISE.MICHEL@OUTLOOK.COM,3/12/2022,Gold,
+CUST_1928,Finn,Schmidt,Germany,Frankfurt,finn.schmidt@gmail.com,11/19/2023,None,42
+CUST_1929,Emma,Jansen,Netherlands,Rotterdam,emma.jansen@yahoo.com,2/20/2022,Silver,35
+CUST_1930,Jules,Bernard,France,Lille,jules.bernard@yahoo.com,8/3/2023,Silver,70
+CUST_1931,Daan,van den Berg,Netherlands,Rotterdam,,6/28/2022,Silver,58
+CUST_1932,Jules,Bernard,France,Lyon,jules.bernard@hotmail.com,7/13/2022,None,26
+CUST_1933,Hannah,Schneider,Germany,Munich,hannah.schneider@hotmail.com,11/29/2023,Silver,66
+CUST_1934,Emma,Jansen,Netherlands,Amsterdam,emma.jansen@gmail.com,12/26/2023,,37
+CUST_1935,Finn,Fischer,Germany,Berlin,finn.fischer@outlook.com,2/26/2022,Platinum,36
+CUST_1936,Arthur,Michel,France,Paris,arthur.michel@gmail.com,2/22/2025,Gold,67
+CUST_1937,Julia,Visser,Netherlands,Amsterdam,julia.visser@outlook.com,1/27/2021,Platinum,50
+CUST_1938,Lucas,Maes,Belgium,Brussels,lucas.maes@outlook.com,8/29/2023,Gold,54
+CUST_1939,Emma,Müller,Germany,Berlin,emma.müller@icloud.com,10/28/2023,Silver,32
+CUST_1940,Marie,Mertens,Belgium,Liège,marie.mertens@yahoo.com,6/12/2022,Platinum,39
+CUST_1941,Ben,Wagner,Germany,Hamburg,ben.wagner@yahoo.com,10/22/2025,None,61
+CUST_1942,Marie,De Smet,Belgium,Leuven,marie.desmet@gmail.com,10/18/2021,Gold,24
+CUST_1943,Alice,De Smet,Luxembourg,Luxembourg City,alice.desmet@gmail.com,7/15/2022,,66
+CUST_1944,Paul,Schneider,Germany,Stuttgart,paul.schneider@yahoo.com,7/20/2022,,25
+CUST_1945,Gabriel,Lefebvre,Luxembourg,Luxembourg City,gabriel.lefebvre@hotmail.com,12/12/2022,None,23
+CUST_1946,Anna,Visser,Netherlands,Rotterdam,anna.visser@icloud.com,9/14/2022,Platinum,27
+CUST_1947,Lars,Janssens,Belgium,Antwerp,LARS.JANSSENS@YAHOO.COM,1/11/2021,Silver,65
+CUST_1948,Marie,Peeters,Belgium,Ghent,marie.peeters@yahoo.com,2/23/2024,Platinum,28
+CUST_1949,Sophie,van den Berg,Netherlands,Eindhoven,SOPHIE.VANDENBERG@GMAIL.COM,5/25/2022,None,63
+CUST_1950,Finn,Müller,Germany,Hamburg,finn.müller@yahoo.com,10/23/2022,Gold,31
+CUST_1951,Gabriel,Laurent,France,Nice,GABRIEL.LAURENT@OUTLOOK.COM,7/10/2024,None,34
+CUST_1952,Emma,Schmidt,Germany,Cologne,emma.schmidt@hotmail.com,1/3/2023,None,50
+CUST_1953,Finn,Fischer,Germany,Berlin,,10/15/2021,Gold,42
+CUST_1954,Louise,Maes,Luxembourg,Esch-sur-Alzette,louise.maes@gmail.com,1/13/2021,None,56
+CUST_1955,Emma,Janssens,Belgium,Ghent,EMMA.JANSSENS@GMAIL.COM,9/14/2023,Silver,26
+CUST_1956,Emma,Simon,Luxembourg,Luxembourg City,emma.simon@icloud.com,4/3/2022,Gold,63
+CUST_1957,Arthur,Michel,France,Paris,arthur.michel@hotmail.com,11/10/2021,,30
+CUST_1958,Noah,Peeters,Belgium,Brussels,,9/7/2021,Gold,53
+CUST_1959,Noah,Bakker,Netherlands,The Hague,NOAH.BAKKER@ICLOUD.COM,,Gold,70
+CUST_1960,Sophie,van den Berg,Netherlands,The Hague,SOPHIE.VANDENBERG@YAHOO.COM,1/23/2023,None,48
+CUST_1961,Lars,Jacobs,Belgium,Bruges,,1/23/2021,,25
+CUST_1962,Ben,Schneider,Germany,Munich,ben.schneider@hotmail.com,,,55
+CUST_1963,Julia,Visser,Netherlands,Eindhoven,julia.visser@hotmail.com,9/5/2024,None,44
+CUST_1964,Noah,Visser,Netherlands,Utrecht,noah.visserhotmail.com,8/25/2023,,34
+CUST_1965,Louis,Maes,Luxembourg,Esch-sur-Alzette,louis.maes@icloud.com,4/7/2023,Gold,24
+CUST_1966,Emma,Visser,Netherlands,Amsterdam,emma.visser@hotmail.com,4/30/2025,Gold,69
+CUST_1967,Lucas,De Smet,Belgium,Bruges,LUCAS.DESMET@HOTMAIL.COM,3/18/2021,None,27
+CUST_1968,Louis,Bernard,France,Marseille,louis.bernard@gmail.com,3/21/2024,Platinum,35
+CUST_1969,Sophia,Meyer,Germany,Hamburg,sophia.meyer@outlook.com,7/15/2025,,28
+CUST_1970,Emma,Peeters,Belgium,Brussels,emma.peeters@outlook.com,1/25/2024,Gold,44
+CUST_1971,Chloé,Jacobs,Luxembourg,Luxembourg City,chloé.jacobs@icloud.com,2/19/2024,None,27
+CUST_1972,Finn,Wagner,Germany,Berlin,finn.wagnericloud.com,8/30/2021,,26
+CUST_1973,Gabriel,Janssens,Luxembourg,Luxembourg City,gabriel.janssens@yahoo.com,5/20/2021,Platinum,33
+CUST_1974,Noah,Mertens,Belgium,Leuven,noah.mertens@icloud.com,11/29/2024,None,60
+CUST_1975,Louis,Martin,France,Marseille,louis.martin@hotmail.com,10/13/2021,Platinum,69
+CUST_1976,Noah,Jacobs,Belgium,Brussels,noah.jacobs@icloud.com,3/14/2021,None,27
+CUST_1977,Lucas,Bernard,Luxembourg,Esch-sur-Alzette,LUCAS.BERNARD@OUTLOOK.COM,,Platinum,64
+CUST_1978,Sophia,Schneider,Germany,Munich,SOPHIA.SCHNEIDER@GMAIL.COM,2/6/2022,Silver,47
+CUST_1979,Chloé,Janssens,Luxembourg,Esch-sur-Alzette,chloé.janssens@hotmail.com,10/10/2021,,30
+CUST_1980,Alice,Bernard,France,Marseille,alice.bernard@hotmail.com,1/21/2021,,70
+CUST_1981,Emma,Michel,Luxembourg,Luxembourg City,EMMA.MICHEL@OUTLOOK.COM,1/5/2022,Platinum,43
+CUST_1982,Lars,Willems,Luxembourg,Luxembourg City,lars.willems@icloud.com,6/6/2021,Gold,57
+CUST_1983,Mia,Wagner,Germany,Munich,mia.wagner@hotmail.com,8/23/2022,,38
+CUST_1984,Alice,Michel,France,Nice,alice.michel@icloud.com,6/27/2024,Gold,28
+CUST_1985,Sophie,de Vries,Netherlands,Eindhoven,sophie.devries@outlook.com,3/15/2021,None,67
+CUST_1986,Emma,Müller,Germany,Frankfurt,emma.müller@gmail.com,6/23/2021,None,62
+CUST_1987,Ben,Wagner,Germany,Frankfurt,ben.wagner@hotmail.com,9/13/2024,Platinum,26
+CUST_1988,Thomas,Janssens,Belgium,Leuven,thomas.janssens@yahoo.com,4/25/2024,Platinum,24
+CUST_1989,Alice,Lefebvre,Luxembourg,Esch-sur-Alzette,alice.lefebvre@gmail.com,10/20/2024,None,57
+CUST_1990,Leon,Schmidt,Germany,Frankfurt,leon.schmidt@hotmail.com,2/1/2021,Platinum,66
+CUST_1991,Noah,Mertens,Belgium,Leuven,noah.mertens@yahoo.com,1/11/2023,,39
+CUST_1992,Emma,Maes,Belgium,Leuven,emma.maes@yahoo.com,2/5/2021,Silver,52
+CUST_1993,Chloé,Michel,France,Nice,chloé.michel@outlook.com,6/3/2024,None,27
+CUST_1994,Noah,de Vries,Netherlands,Utrecht,noah.devries@hotmail.com,6/19/2024,Silver,37
+CUST_1995,Lucas,De Smet,Belgium,Leuven,LUCAS.DESMET@HOTMAIL.COM,5/5/2021,Platinum,39
+CUST_1996,Thomas,Willems,Belgium,Liège,thomas.willems@gmail.com,6/28/2023,Gold,27
+CUST_1997,Julia,Bakker,Netherlands,Utrecht,julia.bakkerhotmail.com,2/20/2021,Platinum,46
+CUST_1998,Mia,Fischer,Germany,Hamburg,mia.fischericloud.com,11/4/2021,Silver,24
+CUST_1999,Louise,Michel,Luxembourg,Esch-sur-Alzette,louise.michel@icloud.com,12/30/2024,None,36
+CUST_2000,Emma,Laurent,Luxembourg,Luxembourg City,emma.laurent@hotmail.com,4/5/2022,,59
+CUST_2001,Emma,Wagner,Germany,Cologne,emma.wagner@gmail.com,10/12/2022,Platinum,59
+CUST_2002,Julia,Jansen,Netherlands,Utrecht,julia.jansen@outlook.com,5/9/2022,Platinum,49
+CUST_2003,Thomas,Willems,Belgium,Leuven,thomas.willems@gmail.com,7/9/2023,,37
+CUST_2004,Sophie,van den Berg,Netherlands,Eindhoven,sophie.vandenberg@outlook.com,8/30/2021,,49
+CUST_2005,Anna,Visser,Netherlands,Rotterdam,ANNA.VISSER@OUTLOOK.COM,6/24/2022,None,68
+CUST_2006,Lucas,Mertens,Belgium,Brussels,,11/21/2023,None,47
+CUST_2007,Gabriel,Laurent,France,Lille,gabriel.laurent@icloud.com,8/17/2025,,60
+CUST_2008,Noah,Simon,Luxembourg,Luxembourg City,noah.simon@gmail.com,4/18/2023,None,70
+CUST_2009,Chloé,Michel,France,Lyon,chloé.michel@outlook.com,11/10/2023,,23
+CUST_2010,Louise,Laurent,Luxembourg,Esch-sur-Alzette,louise.laurent@hotmail.com,7/27/2022,Gold,29
+CUST_2011,Chloé,Dubois,France,Paris,chloé.dubois@icloud.com,5/24/2023,Platinum,47
+CUST_2012,Liam,de Jong,Netherlands,Rotterdam,liam.dejong@hotmail.com,7/23/2021,Silver,33
+CUST_2013,Arthur,Laurent,France,Toulouse,arthur.laurent@outlook.com,5/26/2024,Platinum,37
+CUST_2014,Emma,Jansen,Netherlands,Eindhoven,EMMA.JANSEN@ICLOUD.COM,1/11/2024,Silver,35
+CUST_2015,Ben,Schneider,Germany,Munich,ben.schneider@yahoo.com,12/3/2023,Platinum,52
+CUST_2016,Emma,Jacobs,Belgium,Bruges,emma.jacobs@hotmail.com,2/7/2025,Silver,45
+CUST_2017,Emma,de Vries,Netherlands,Rotterdam,emma.devries@icloud.com,10/8/2024,Platinum,68
+CUST_2018,Louise,Janssens,Belgium,Liège,louise.janssens@icloud.com,7/6/2024,Silver,63
+CUST_2019,Liam,Bakker,Netherlands,The Hague,liam.bakker@outlook.com,7/25/2025,Platinum,54
+CUST_2020,Sophie,Visser,Netherlands,Amsterdam,sophie.visser@icloud.com,,,58
+CUST_2021,Liam,de Jong,Netherlands,The Hague,liam.dejong@yahoo.com,12/16/2022,Gold,65
+CUST_2022,Louise,Dubois,France,Lille,louise.dubois@hotmail.com,1/18/2024,Gold,29
+CUST_2023,Marie,Jacobs,Belgium,Bruges,marie.jacobs@yahoo.com,10/16/2022,None,45
+CUST_2024,Anna,van den Berg,Netherlands,Eindhoven,ANNA.VANDENBERG@HOTMAIL.COM,3/17/2022,Silver,49
+CUST_2025,Gabriel,Willems,Luxembourg,Esch-sur-Alzette,gabriel.willems@hotmail.com,4/22/2021,Gold,69
+CUST_2026,Louis,Dubois,France,Toulouse,louis.dubois@hotmail.com,5/16/2025,,62
+CUST_2027,Gabriel,Simon,France,Nice,GABRIEL.SIMON@GMAIL.COM,5/18/2025,,45
+CUST_2028,Sofie,Willems,Belgium,Antwerp,sofie.willems@yahoo.com,3/22/2023,Platinum,37
+CUST_2029,Julia,de Vries,Netherlands,The Hague,julia.devries@outlook.com,,Silver,56
+CUST_2030,Arthur,Michel,Luxembourg,Esch-sur-Alzette,arthur.michel@gmail.com,5/1/2025,Platinum,25
+CUST_2031,Louise,De Smet,Belgium,Bruges,louise.desmet@outlook.com,6/6/2021,None,69
+CUST_2032,Sofie,De Smet,Belgium,Leuven,SOFIE.DESMET@ICLOUD.COM,3/13/2023,Platinum,61
+CUST_2033,Jules,Simon,France,Lille,jules.simon@gmail.com,9/5/2024,Platinum,47
+CUST_2034,Emma,Schmidt,Germany,Frankfurt,emma.schmidt@icloud.com,11/4/2023,None,24
+CUST_2035,Mia,Wagner,Germany,Cologne,mia.wagner@gmail.com,,Platinum,51
+CUST_2036,Emma,Meyer,Germany,Hamburg,emma.meyer@yahoo.com,2/23/2024,,54
+CUST_2037,Emma,Jansen,Netherlands,The Hague,emma.jansen@icloud.com,4/7/2025,Platinum,54
+CUST_2038,Leon,Meyer,Germany,Hamburg,leon.meyeroutlook.com,1/12/2021,,36
+CUST_2039,Sophia,Schneider,Germany,Stuttgart,sophia.schneider@outlook.com,10/25/2025,Silver,69
+CUST_2040,Louise,De Smet,Belgium,Brussels,LOUISE.DESMET@HOTMAIL.COM,9/6/2021,Silver,51
+CUST_2041,Louise,Jacobs,Belgium,Antwerp,louise.jacobs@icloud.com,3/29/2023,Silver,
+CUST_2042,Leon,Meyer,Germany,Stuttgart,leon.meyer@yahoo.com,8/24/2024,,41
+CUST_2043,Julia,Bakker,Netherlands,Eindhoven,julia.bakker@yahoo.com,3/10/2025,Gold,31
+CUST_2044,Chloé,Janssens,Luxembourg,Esch-sur-Alzette,chloé.janssens@hotmail.com,1/12/2021,Gold,35
+CUST_2045,Lars,Maes,Belgium,Brussels,lars.maes@gmail.com,7/27/2024,Platinum,37
+CUST_2046,Noah,Maes,Belgium,Ghent,noah.maes@hotmail.com,4/6/2023,,58
+CUST_2047,Emma,Bakker,Netherlands,Rotterdam,emma.bakker@gmail.com,7/29/2021,,56
+CUST_2048,Mia,Weber,Germany,Cologne,mia.weber@icloud.com,10/1/2024,Gold,36
+CUST_2049,Noah,Peeters,Belgium,Brussels,noah.peeters@icloud.com,10/25/2022,Gold,26
+CUST_2050,Jules,Mertens,Luxembourg,Esch-sur-Alzette,jules.mertens@yahoo.com,3/17/2023,None,47
+CUST_2051,Arthur,Lefebvre,France,Nice,arthur.lefebvre@yahoo.com,12/7/2021,Gold,40
+CUST_2052,Sophia,Fischer,Germany,Stuttgart,sophia.fischer@yahoo.com,12/15/2022,None,46
+CUST_2053,Jules,Bernard,France,Nice,jules.bernard@icloud.com,2/6/2023,Silver,70
+CUST_2054,Anna,de Vries,Netherlands,Eindhoven,,1/26/2023,Silver,55
+CUST_2055,Louis,Janssens,Luxembourg,Esch-sur-Alzette,louis.janssens@hotmail.com,7/16/2022,Silver,59
+CUST_2056,Sophia,Fischer,Germany,Munich,sophia.fischer@hotmail.com,8/1/2021,,24
+CUST_2057,Liam,Jansen,Netherlands,Amsterdam,LIAM.JANSEN@HOTMAIL.COM,12/26/2024,,29
+CUST_2058,Louise,Michel,France,Nice,louise.michel@gmail.com,12/23/2024,Platinum,60
+CUST_2059,Sofie,Laurent,Luxembourg,Esch-sur-Alzette,sofie.laurent@hotmail.com,8/17/2025,Platinum,32
+CUST_2060,Lucas,Jacobs,Belgium,Brussels,lucas.jacobs@yahoo.com,7/25/2024,Platinum,23
+CUST_2061,Alice,Martin,France,Marseille,alice.martin@hotmail.com,8/7/2023,Gold,28
+CUST_2062,Lucas,Maes,Belgium,Leuven,lucas.maes@gmail.com,2/7/2023,Gold,69
+CUST_2063,Louise,Michel,France,Lille,louise.michel@outlook.com,7/26/2022,None,43
+CUST_2064,Sophie,de Vries,Netherlands,Rotterdam,sophie.devries@outlook.com,7/9/2021,Platinum,60
+CUST_2065,Chloé,Lefebvre,France,Lille,chloé.lefebvreoutlook.com,1/7/2024,None,67
+CUST_2066,Arthur,Bernard,France,Marseille,arthur.bernard@icloud.com,11/18/2023,Gold,39
+CUST_2067,Leon,Müller,Germany,Berlin,leon.müller@icloud.com,4/16/2024,None,59
+CUST_2068,Emma,De Smet,Luxembourg,Luxembourg City,EMMA.DESMET@YAHOO.COM,11/17/2022,Gold,29
+CUST_2069,Arthur,Bernard,France,Toulouse,ARTHUR.BERNARD@ICLOUD.COM,7/24/2023,None,67
+CUST_2070,Sophia,Wagner,Germany,Munich,sophia.wagner@yahoo.com,4/2/2023,,37
+CUST_2071,Louise,Jacobs,Belgium,Ghent,LOUISE.JACOBS@ICLOUD.COM,9/8/2022,,67
+CUST_2072,Liam,Jansen,Netherlands,Utrecht,liam.jansen@gmail.com,6/30/2025,Gold,48
+CUST_2073,Ben,Meyer,Germany,Munich,ben.meyer@outlook.com,4/29/2022,Silver,50
+CUST_2074,Liam,Visser,Netherlands,Eindhoven,,2/1/2024,Gold,67
+CUST_2075,Finn,Wagner,Germany,Frankfurt,FINN.WAGNER@OUTLOOK.COM,4/12/2025,Platinum,48
+CUST_2076,Jules,Simon,France,Toulouse,jules.simonicloud.com,4/16/2024,,
+CUST_2077,Sophie,de Vries,Netherlands,Utrecht,SOPHIE.DEVRIES@YAHOO.COM,3/27/2023,Gold,64
+CUST_2078,Anna,Jansen,Netherlands,Amsterdam,ANNA.JANSEN@OUTLOOK.COM,1/4/2022,Platinum,41
+CUST_2079,Sophia,Müller,Germany,Hamburg,sophia.müller@hotmail.com,8/6/2021,Platinum,28
+CUST_2080,Louise,Mertens,Belgium,Brussels,louise.mertens@outlook.com,7/21/2023,None,
+CUST_2081,Ben,Schneider,Germany,Frankfurt,BEN.SCHNEIDER@YAHOO.COM,7/12/2023,Platinum,53
+CUST_2082,Louise,Peeters,Luxembourg,Luxembourg City,louise.peeters@hotmail.com,11/4/2021,,
+CUST_2083,Louise,Simon,France,Nice,louise.simon@hotmail.com,,Platinum,52
+CUST_2084,Thomas,Maes,Belgium,Bruges,thomas.maes@yahoo.com,,Platinum,41
+CUST_2085,Ben,Fischer,Germany,Hamburg,ben.fischer@yahoo.com,3/16/2021,Gold,48
+CUST_2086,Emma,Bakker,Netherlands,Amsterdam,emma.bakker@outlook.com,7/17/2022,,52
+CUST_2087,Anna,de Jong,Netherlands,Amsterdam,ANNA.DEJONG@YAHOO.COM,7/30/2024,None,29
+CUST_2088,Lucas,De Smet,Luxembourg,Esch-sur-Alzette,lucas.desmet@hotmail.com,1/17/2025,None,28
+CUST_2089,Noah,Willems,Belgium,Ghent,noah.willems@yahoo.com,11/22/2024,,46
+CUST_2090,Hannah,Wagner,Germany,Frankfurt,hannah.wagner@yahoo.com,10/7/2024,Gold,48
+CUST_2091,Arthur,Martin,France,Toulouse,,7/1/2022,Platinum,63
+CUST_2092,Noah,Peeters,Belgium,Brussels,noah.peeters@yahoo.com,6/1/2024,None,60
+CUST_2093,Gabriel,Bernard,Luxembourg,Esch-sur-Alzette,GABRIEL.BERNARD@HOTMAIL.COM,12/11/2022,None,32
+CUST_2094,Hannah,Weber,Germany,Stuttgart,hannah.weber@outlook.com,,None,28
+CUST_2095,Louise,Peeters,Luxembourg,Luxembourg City,louise.peeters@icloud.com,10/13/2024,,32
+CUST_2096,Thomas,Dubois,Luxembourg,Esch-sur-Alzette,thomas.dubois@icloud.com,,None,58
+CUST_2097,Lucas,Bakker,Netherlands,Rotterdam,lucas.bakker@hotmail.com,3/24/2022,,30
+CUST_2098,Gabriel,Lefebvre,France,Lyon,gabriel.lefebvre@hotmail.com,5/12/2024,Silver,46
+CUST_2099,Jules,Bernard,France,Toulouse,jules.bernard@hotmail.com,11/18/2021,None,34
+CUST_2100,Louis,Simon,France,Marseille,louis.simon@hotmail.com,4/3/2024,None,49
+CUST_2101,Daan,Bakker,Netherlands,Rotterdam,daan.bakker@outlook.com,3/14/2024,Platinum,24
+CUST_2102,Lars,Maes,Luxembourg,Esch-sur-Alzette,LARS.MAES@GMAIL.COM,6/6/2025,,58
+CUST_2103,Liam,van den Berg,Netherlands,Utrecht,liam.vandenberg@outlook.com,10/23/2022,Silver,27
+CUST_2104,Anna,van den Berg,Netherlands,Rotterdam,anna.vandenberg@icloud.com,8/3/2023,,30
+CUST_2105,Gabriel,Bernard,France,Toulouse,,12/1/2023,Silver,47
+CUST_2106,Leon,Meyer,Germany,Cologne,leon.meyer@gmail.com,1/3/2025,None,
+CUST_2107,Marie,Mertens,Belgium,Bruges,marie.mertens@gmail.com,8/23/2024,Silver,30
+CUST_2108,Noah,Bakker,Netherlands,Amsterdam,noah.bakker@outlook.com,5/13/2022,Platinum,36
+CUST_2109,Thomas,De Smet,Belgium,Liège,thomas.desmet@gmail.com,3/31/2025,None,41
+CUST_2110,Chloé,Michel,France,Marseille,CHLOÉ.MICHEL@ICLOUD.COM,12/5/2023,Platinum,37
+CUST_2111,Louise,Simon,Luxembourg,Esch-sur-Alzette,louise.simon@yahoo.com,9/1/2023,Platinum,66
+CUST_2112,Liam,Jansen,Netherlands,Eindhoven,liam.jansen@yahoo.com,10/9/2025,Gold,42
+CUST_2113,Sofie,Willems,Luxembourg,Esch-sur-Alzette,sofie.willems@icloud.com,6/20/2024,Gold,45
+CUST_2114,Gabriel,Bernard,Luxembourg,Esch-sur-Alzette,gabriel.bernard@hotmail.com,12/12/2023,None,53
+CUST_2115,Emma,Maes,Belgium,Antwerp,emma.maes@yahoo.com,2/1/2025,Gold,64
+CUST_2116,Chloé,Laurent,France,Nice,chloé.laurent@gmail.com,12/10/2023,Gold,70
+CUST_2117,Louis,Laurent,France,Lille,louis.laurent@gmail.com,1/1/2024,Silver,57
+CUST_2118,Lars,Willems,Belgium,Leuven,lars.willems@outlook.com,8/25/2024,None,37
+CUST_2119,Daan,Bakker,Netherlands,Utrecht,daan.bakker@icloud.com,5/11/2021,,31
+CUST_2120,Louis,Bernard,France,Lyon,louis.bernard@outlook.com,1/5/2024,Platinum,26
+CUST_2121,Noah,Jacobs,Belgium,Brussels,noah.jacobs@hotmail.com,3/17/2022,,42
+CUST_2122,Louise,Mertens,Belgium,Brussels,louise.mertens@hotmail.com,6/12/2024,Platinum,23
+CUST_2123,Leon,Fischer,Germany,Stuttgart,leon.fischer@outlook.com,8/14/2024,Gold,57
+CUST_2124,Arthur,Michel,France,Nice,arthur.michel@icloud.com,1/9/2022,,43
+CUST_2125,Sophia,Schmidt,Germany,Munich,sophia.schmidt@gmail.com,11/1/2025,,63
+CUST_2126,Sophie,de Jong,Netherlands,Rotterdam,sophie.dejong@outlook.com,8/25/2023,,42
+CUST_2127,Liam,de Vries,Netherlands,Rotterdam,liam.devries@outlook.com,6/3/2024,,43
+CUST_2128,Finn,Wagner,Germany,Stuttgart,finn.wagner@yahoo.com,9/5/2025,Platinum,32
+CUST_2129,Alice,Lefebvre,France,Lille,alice.lefebvre@yahoo.com,5/5/2023,None,
+CUST_2130,Louise,Maes,Belgium,Liège,louise.maes@outlook.com,,Platinum,36
+CUST_2131,Alice,Martin,France,Marseille,alice.martin@hotmail.com,2/13/2022,,62
+CUST_2132,Leon,Müller,Germany,Berlin,leon.müller@outlook.com,4/29/2024,None,25
+CUST_2133,Hannah,Schneider,Germany,Cologne,HANNAH.SCHNEIDER@ICLOUD.COM,7/20/2022,Platinum,51
+CUST_2134,Lars,Peeters,Belgium,Liège,lars.peeters@gmail.com,11/7/2021,Platinum,60
+CUST_2135,Louise,Bernard,Luxembourg,Luxembourg City,louise.bernard@hotmail.com,6/18/2022,Silver,41
+CUST_2136,Emma,Visser,Netherlands,Utrecht,emma.visser@yahoo.com,1/13/2022,None,37
+CUST_2137,Alice,Bernard,France,Lille,alice.bernard@yahoo.com,,None,49
+CUST_2138,Sophia,Wagner,Germany,Berlin,sophia.wagnericloud.com,3/4/2024,,25
+CUST_2139,Chloé,Dubois,France,Nice,chloé.dubois@yahoo.com,2/18/2024,Gold,57
+CUST_2140,Lucas,Dubois,Luxembourg,Esch-sur-Alzette,lucas.dubois@icloud.com,11/1/2024,None,40
+CUST_2141,Paul,Meyer,Germany,Hamburg,paul.meyer@gmail.com,5/19/2025,Silver,50
+CUST_2142,Leon,Müller,Germany,Cologne,,6/15/2022,Platinum,60
+CUST_2143,Jules,Laurent,Luxembourg,Luxembourg City,jules.laurent@icloud.com,3/27/2024,Gold,32
+CUST_2144,Gabriel,Martin,France,Paris,gabriel.martin@icloud.com,1/12/2024,Platinum,27
+CUST_2145,Louise,Michel,France,Lyon,louise.michel@outlook.com,3/21/2022,Gold,24
+CUST_2146,Emma,Wagner,Germany,Frankfurt,emma.wagner@gmail.com,2/19/2023,None,51
+CUST_2147,Sophie,van den Berg,Netherlands,Eindhoven,sophie.vandenberg@gmail.com,1/23/2025,Gold,33
+CUST_2148,Lars,De Smet,Belgium,Leuven,lars.desmet@yahoo.com,7/5/2021,None,46
+CUST_2149,Emma,Laurent,France,Paris,emma.laurent@gmail.com,7/24/2021,Silver,42
+CUST_2150,Leon,Schmidt,Germany,Stuttgart,leon.schmidt@gmail.com,2/2/2021,Platinum,40
+CUST_2151,Lucas,Mertens,Belgium,Antwerp,LUCAS.MERTENS@OUTLOOK.COM,11/24/2024,Silver,25
+CUST_2152,Louise,Lefebvre,Luxembourg,Esch-sur-Alzette,louise.lefebvre@yahoo.com,12/24/2021,Gold,32
+CUST_2153,Emma,Lefebvre,France,Lyon,emma.lefebvre@gmail.com,9/20/2025,Silver,43
+CUST_2154,Thomas,Janssens,Belgium,Bruges,THOMAS.JANSSENS@GMAIL.COM,1/10/2024,,61
+CUST_2155,Liam,de Jong,Netherlands,Amsterdam,LIAM.DEJONG@YAHOO.COM,8/19/2021,None,52
+CUST_2156,Jules,Maes,Luxembourg,Luxembourg City,jules.maes@yahoo.com,10/24/2022,,46
+CUST_2157,Lars,Jacobs,Belgium,Liège,lars.jacobs@icloud.com,10/20/2021,Silver,28
+CUST_2158,Leon,Weber,Germany,Berlin,leon.weber@outlook.com,11/5/2022,,52
+CUST_2159,Louis,Michel,Luxembourg,Luxembourg City,louis.michel@yahoo.com,10/9/2025,Silver,47
+CUST_2160,Liam,de Jong,Netherlands,Rotterdam,liam.dejong@gmail.com,1/24/2021,Platinum,53
+CUST_2161,Lucas,van den Berg,Netherlands,Rotterdam,lucas.vandenberg@hotmail.com,7/27/2022,Platinum,55
+CUST_2162,Gabriel,Dubois,France,Marseille,gabriel.dubois@hotmail.com,10/20/2025,Platinum,56
+CUST_2163,Thomas,Jacobs,Belgium,Liège,THOMAS.JACOBS@GMAIL.COM,7/26/2023,,30
+CUST_2164,Gabriel,Lefebvre,France,Marseille,gabriel.lefebvre@yahoo.com,10/31/2023,Gold,55
+CUST_2165,Sophie,de Jong,Netherlands,Rotterdam,sophie.dejong@yahoo.com,12/23/2023,Platinum,57
+CUST_2166,Lars,Simon,Luxembourg,Luxembourg City,lars.simon@yahoo.com,10/26/2025,Gold,68
+CUST_2167,Alice,Lefebvre,Luxembourg,Luxembourg City,alice.lefebvreyahoo.com,3/10/2023,None,49
+CUST_2168,Mia,Schmidt,Germany,Stuttgart,,10/1/2022,,69
+CUST_2169,Lucas,Janssens,Luxembourg,Esch-sur-Alzette,lucas.janssens@outlook.com,7/11/2025,None,38
+CUST_2170,Lucas,van den Berg,Netherlands,Eindhoven,lucas.vandenberg@outlook.com,7/20/2022,Silver,48
+CUST_2171,Marie,Jacobs,Luxembourg,Esch-sur-Alzette,marie.jacobs@outlook.com,,,42
+CUST_2172,Lars,Peeters,Belgium,Liège,LARS.PEETERS@HOTMAIL.COM,7/20/2023,Platinum,69
+CUST_2173,Louis,Laurent,France,Marseille,louis.laurent@gmail.com,12/24/2024,Platinum,54
+CUST_2174,Emma,de Jong,Netherlands,Eindhoven,emma.dejong@icloud.com,10/10/2023,None,50
+CUST_2175,Emma,Mertens,Belgium,Ghent,emma.mertens@yahoo.com,9/27/2024,Silver,45
+CUST_2176,Emma,De Smet,Belgium,Bruges,emma.desmet@outlook.com,6/29/2022,None,68
+CUST_2177,Arthur,Dubois,Luxembourg,Esch-sur-Alzette,arthur.dubois@gmail.com,7/21/2021,Gold,30
+CUST_2178,Jules,Lefebvre,France,Toulouse,jules.lefebvre@gmail.com,3/20/2024,None,25
+CUST_2179,Ben,Schmidt,Germany,Cologne,,4/25/2023,None,69
+CUST_2180,Alice,Lefebvre,France,Lille,alice.lefebvre@yahoo.com,5/25/2025,Platinum,52
+CUST_2181,Sophie,Bakker,Netherlands,Eindhoven,sophie.bakker@yahoo.com,12/19/2021,Platinum,28
+CUST_2182,Louise,Dubois,France,Marseille,LOUISE.DUBOIS@GMAIL.COM,6/27/2024,None,34
+CUST_2183,Noah,Visser,Netherlands,The Hague,noah.visser@yahoo.com,11/23/2021,Silver,43
+CUST_2184,Noah,Willems,Belgium,Ghent,noah.willems@icloud.com,1/8/2024,Silver,62
+CUST_2185,Emma,de Jong,Netherlands,Eindhoven,EMMA.DEJONG@HOTMAIL.COM,12/26/2022,Silver,47
+CUST_2186,Emma,Dubois,France,Lyon,emma.dubois@hotmail.com,7/15/2022,Gold,
+CUST_2187,Sophie,Jansen,Netherlands,The Hague,sophie.jansen@outlook.com,10/23/2025,None,51
+CUST_2188,Louise,Mertens,Luxembourg,Luxembourg City,louise.mertens@icloud.com,3/4/2023,Platinum,68
+CUST_2189,Jules,Dubois,France,Marseille,jules.dubois@outlook.com,10/3/2021,Gold,67
+CUST_2190,Marie,Peeters,Luxembourg,Esch-sur-Alzette,marie.peeters@icloud.com,1/14/2025,,67
+CUST_2191,Anna,de Vries,Netherlands,Eindhoven,anna.devries@gmail.com,5/13/2021,Silver,33
+CUST_2192,Jules,Bernard,Luxembourg,Luxembourg City,jules.bernard@yahoo.com,12/27/2022,Platinum,69
+CUST_2193,Louis,Simon,Luxembourg,Luxembourg City,louis.simon@icloud.com,3/23/2023,Platinum,51
+CUST_2194,Emma,De Smet,Luxembourg,Luxembourg City,emma.desmet@icloud.com,4/19/2025,,66
+CUST_2195,Louis,Simon,France,Paris,louis.simon@yahoo.com,5/11/2021,Gold,69
+CUST_2196,Sophie,Bakker,Netherlands,Rotterdam,,11/11/2022,,48
+CUST_2197,Finn,Fischer,Germany,Stuttgart,finn.fischer@hotmail.com,12/29/2022,Platinum,50
+CUST_2198,Emma,Schmidt,Germany,Hamburg,emma.schmidt@hotmail.com,6/17/2021,,29
+CUST_2199,Louis,Simon,France,Paris,louis.simonicloud.com,12/20/2023,Platinum,
+CUST_2200,Leon,Müller,Germany,Cologne,LEON.MÜLLER@ICLOUD.COM,7/27/2024,,34
+CUST_2201,Julia,van den Berg,Netherlands,Rotterdam,julia.vandenberg@gmail.com,7/5/2024,Gold,49
+CUST_2202,Arthur,Bernard,France,Paris,arthur.bernard@hotmail.com,11/15/2022,Silver,38
+CUST_2203,Lucas,Peeters,Luxembourg,Luxembourg City,lucas.peeters@yahoo.com,8/14/2024,Platinum,48
+CUST_2204,Daan,de Jong,Netherlands,Rotterdam,daan.dejong@icloud.com,6/3/2021,Gold,43
+CUST_2205,Jules,Simon,France,Nice,JULES.SIMONHOTMAIL.COM,11/13/2021,Silver,23
+CUST_2206,Emma,De Smet,Belgium,Bruges,emma.desmet@outlook.com,6/29/2022,None,68
+CUST_2207,Liam,Jansen,Netherlands,Eindhoven,LIAM.JANSEN@GMAIL.COM,1/4/2022,,48
+CUST_2208,Thomas,De Smet,Luxembourg,Luxembourg City,thomas.desmet@gmail.com,4/30/2024,,62
+CUST_2209,Sofie,Simon,Luxembourg,Esch-sur-Alzette,sofie.simon@gmail.com,9/14/2023,,49
+CUST_2210,Louise,De Smet,Belgium,Brussels,LOUISE.DESMET@HOTMAIL.COM,9/6/2021,Silver,51
+CUST_2211,Sofie,De Smet,Belgium,Brussels,SOFIE.DESMET@HOTMAIL.COM,12/8/2024,Silver,67
+CUST_2212,Noah,van den Berg,Netherlands,Amsterdam,noah.vandenberg@icloud.com,2/26/2022,None,54
+CUST_2213,Noah,Jacobs,Belgium,Brussels,noah.jacobs@icloud.com,3/30/2022,None,63
+CUST_2214,Louis,Janssens,Luxembourg,Luxembourg City,louis.janssens@yahoo.com,1/13/2021,,32
+CUST_2215,Daan,Bakker,Netherlands,Rotterdam,daan.bakker@outlook.com,3/14/2024,Platinum,24
+CUST_2216,Mia,Fischer,Germany,Berlin,mia.fischer@icloud.com,8/7/2023,Silver,30
+CUST_2217,Daan,Visser,Netherlands,Utrecht,daan.visser@yahoo.com,5/18/2024,Platinum,48
+CUST_2218,Louis,Martin,France,Nice,louis.martin@gmail.com,4/10/2024,Platinum,
+CUST_2219,Marie,Dubois,Luxembourg,Esch-sur-Alzette,marie.dubois@yahoo.com,,Silver,52
+CUST_2220,Alice,Dubois,France,Marseille,alice.dubois@gmail.com,5/2/2022,Silver,58

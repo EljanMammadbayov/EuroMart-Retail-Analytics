@@ -1,0 +1,61 @@
+product_id,product_name,category,subcategory,unit_price,cost_price,supplier,stock_status,cost_price_imputed
+P101,Logitech MX Master 3 Mouse,Technology,Computers,1114.91,652.09,Leitz,Low Stock,False
+P102,IKEA Markus Chair,Technology,Networking,57.35,40.144999999999996,Microsoft,Low Stock,True
+P103,HP Envy 15 Laptop,Accessories,Cables,846.25,613.81,Bose,Low Stock,False
+P104,Leitz Paper Organizer,Furniture,Storage,424.5,314.0,Samsung,In Stock,False
+P105,Philips LED Desk Lamp,Home Office,Lighting,241.66,153.25,HP,In Stock,False
+P106,"Samsung 27"" Monitor",Technology,Peripherals,1272.77,956.85,Sony,Low Stock,False
+P107,Dell XPS 13 Laptop,Technology,Networking,127.4,90.09,Staedtler,Low Stock,False
+P108,Microsoft Surface Keyboard,Office Supplies,Paper Products,113.63,84.46,HP,Low Stock,False
+P109,Logitech C920 Webcam,Technology,Networking,424.17,271.98,Staedtler,Out of Stock,False
+P110,IKEA Bekant Desk,Office Supplies,Paper Products,407.79,290.35,TP-Link,Low Stock,False
+P111,HP LaserJet Printer,Accessories,Misc,374.76,231.41,Seagate,Low Stock,False
+P112,Canon PIXMA Printer,Home Office,Furniture,351.27,245.88899999999998,Fellowes,In Stock,True
+P113,Apple Magic Mouse,Home Office,Furniture,324.36,249.46,Fellowes,Low Stock,False
+P114,Fellowes Paper Shredder,Furniture,Chairs,1328.18,777.94,Philips,Low Stock,False
+P115,Staedtler Pen Set,Accessories,Misc,401.48,310.93,Moleskine,Out of Stock,False
+P116,Moleskine Notebook,Office Supplies,Stationery,769.19,538.433,IKEA,In Stock,True
+P117,Post-it Note Pack,Office Supplies,Paper Products,248.36,173.63,Moleskine,In Stock,False
+P118,Scotch Tape Dispenser,Accessories,Adapters,798.38,610.92,Logitech,In Stock,False
+P119,Bose QuietComfort Headphones,Accessories,Adapters,1155.21,720.13,Samsung,In Stock,False
+P120,Sony WH-1000XM4 Headphones,Technology,Peripherals,1458.11,987.02,Leitz,Out of Stock,False
+P121,Kingston USB Flash Drive 64GB,Accessories,Misc,306.37,180.88,SanDisk,In Stock,False
+P122,SanDisk SD Card 128GB,Accessories,Adapters,738.02,472.88,Apple,Low Stock,False
+P123,Seagate External HDD 2TB,Technology,Accessories,1318.23,753.25,Kingston,In Stock,False
+P124,Western Digital SSD 1TB,Accessories,Cables,201.29,138.38,Canon,Low Stock,False
+P125,TP-Link WiFi Router,Accessories,Adapters,1446.9,1068.99,Dell,Out of Stock,False
+P126,Netgear Network Switch,Furniture,Storage,978.31,664.66,Leitz,Low Stock,False
+P127,APC Battery Backup UPS,Office Supplies,Stationery,513.74,312.11,Microsoft,In Stock,False
+P128,Belkin Surge Protector,Technology,Computers,351.12,268.57,HP,Low Stock,False
+P129,Cable Management Box,Office Supplies,Organization,1006.77,587.03,WD,Low Stock,False
+P130,Monitor Stand Adjustable,Furniture,Desks,1179.08,704.62,Leitz,In Stock,False
+P131,Ergonomic Wrist Rest,Home Office,Lighting,622.54,350.83,Leitz,In Stock,False
+P132,Laptop Cooling Pad,Furniture,Storage,515.55,315.6,Dell,Low Stock,False
+P133,USB-C Hub Multiport,Furniture,Desks,638.6,391.11,HP,In Stock,False
+P134,HDMI Cable 2m,Accessories,Cables,85.37,64.8,HP,Low Stock,False
+P135,DisplayPort Cable,Office Supplies,Organization,733.6,477.03,IKEA,Low Stock,False
+P136,Ethernet Cable Cat6 5m,Furniture,Desks,1478.11,1102.7,Sony,Out of Stock,False
+P137,Wireless Mouse Pad,Furniture,Storage,1436.4,989.6,Kingston,Low Stock,False
+P138,Mechanical Keyboard RGB,Office Supplies,Organization,334.37,234.059,Seagate,In Stock,True
+P139,Gaming Chair Racing Style,Home Office,Furniture,84.7,66.05,SanDisk,Low Stock,False
+P140,Standing Desk Converter,Technology,Computers,1278.5,894.9499999999999,HP,Low Stock,True
+P141,Desk Organizer Set,Furniture,Desks,1412.98,981.64,IKEA,Low Stock,False
+P142,File Cabinet 3-Drawer,Technology,Networking,989.48,622.47,Canon,Low Stock,False
+P143,Bookshelf 5-Tier,Home Office,Furniture,405.76,288.65,Sony,Out of Stock,False
+P144,Whiteboard Magnetic 90x60cm,Technology,Computers,692.84,553.6,HP,Low Stock,False
+P145,Cork Board with Pins,Office Supplies,Paper Products,405.14,312.05,Microsoft,Out of Stock,False
+P146,Desk Calendar 2024,Home Office,Furniture,662.89,414.72,SanDisk,In Stock,False
+P147,Wall Clock Modern,Accessories,Adapters,1398.32,1076.05,Canon,In Stock,False
+P148,Trash Bin Office,Technology,Accessories,415.79,303.28,Dell,Out of Stock,False
+P149,Coffee Maker Nespresso,Accessories,Adapters,384.16,216.17,Bose,Out of Stock,False
+P150,Water Cooler Dispenser,Technology,Computers,506.99,403.03,Samsung,In Stock,False
+P151,Air Purifier HEPA,Accessories,Misc,647.25,453.075,HP,Low Stock,True
+P152,Space Heater Portable,Accessories,Cables,1253.54,735.86,Philips,In Stock,False
+P153,Table Fan Oscillating,Home Office,Lighting,1349.48,1032.59,Staedtler,Low Stock,False
+P154,LED Strip Lights 5m,Office Supplies,Paper Products,163.15,125.79,Bose,Low Stock,False
+P155,Smart Bulb Philips Hue,Office Supplies,Stationery,1298.26,977.19,Bose,In Stock,False
+P156,Extension Cord 3m,Office Supplies,Paper Products,1387.49,905.93,Microsoft,Out of Stock,False
+P157,Label Maker Brother,Office Supplies,Paper Products,171.05,130.79,Microsoft,Low Stock,False
+P158,Calculator Scientific,Furniture,Chairs,464.73,282.04,Logitech,Low Stock,False
+P159,Stapler Heavy Duty,Furniture,Chairs,425.11,297.577,Canon,Out of Stock,True
+P160,Hole Punch 3-Hole,Accessories,Adapters,1022.48,647.01,Logitech,In Stock,False
