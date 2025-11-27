@@ -41,11 +41,8 @@ EuroMart's leadership needed answers to critical questions:
 ## 🎬 Quick Demo
 
 ### Dashboard Preview
-![Executive Summary Dashboard](screenshots/1_executive_summary.png)
+![Executive Summary Dashboard](screenshots/1_executive_summary.PNG)
 *Real-time KPIs tracking revenue, profit, orders, and customer metrics*
-
-![Time Series Analysis](screenshots/7_time_series.png)
-*Seasonal trends and growth patterns with 3 & 6-month moving averages*
 
 ---
 
