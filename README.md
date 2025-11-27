@@ -47,8 +47,6 @@ EuroMart's leadership needed answers to critical questions:
 ![Time Series Analysis](screenshots/7_time_series.png)
 *Seasonal trends and growth patterns with 3 & 6-month moving averages*
 
-[📺 Watch 2-minute walkthrough video](#)
-
 ---
 
 ## 💡 Key Insights Discovered
@@ -60,29 +58,34 @@ EuroMart's leadership needed answers to critical questions:
    - 14 products need **urgent restocking** (each generated €500K+)
    - **Recommendation:** Emergency purchase orders for top performers
 
-2. **Belgium Market Saturation**
-   - Accounts for 28% of total revenue but showing -16% YoY decline in 2025 so far.
-   - Still reasonable chances to finish off the year with positive growth numbers with 2 months to go
-   - **Recommendation:** Diversify growth into Germany (24%) and France (24%)
-
-3. **Customer Churn Risk**
+2. **Customer Churn Risk**
    - 299 customers (38%) haven't purchased in 6+ months
    - Represents €2M+ in dormant lifetime value
    - **Recommendation:** Win-back campaign targeting at-risk segments
 
 ### 🟢 Positive Findings
 
-4. **Exceptional Customer Loyalty**
+3. **Exceptional Customer Loyalty**
    - 96.4% repeat purchase rate (industry average: 20-40%)
    - Strong product-market fit validated
    - **Recommendation:** Leverage loyalty for referral programs
+  
+4. **Growth Opportunity**
+   - Belgium (28%), Germany (25%), France (24%) are top sales markets
+   - Netherlands and Luxembourg underrepresented at ~12% each
+   - **Recommendation:** Explore expansion potential for NL and LU and prepare for marketing campaigns
 
 5. **Pricing Strategy Opportunity**
    - Discounts >20% reduce profit margin from 26% (no discount) → 7%
    - No correlation between high discounts and order quantity
    - **Recommendation:** Cap standard discounts at 10%
+  
+6. **Strong Q4 push opportunity**
+   - October 2025: €743K sales (+€61K vs 2024)
+   - 3-month moving average sales amount to >€708K
+   - **Recommendation:**  Replicate October tactics for strong Q4 push
 
-[📄 See full analysis report →](docs/business_insights.md)
+[📄 See full SQL exploratory data analysis →](sql/3_schema_and_analysis.sql)
 
 ---
 
@@ -109,7 +112,7 @@ EuroMart's leadership needed answers to critical questions:
          │
          ▼
 ┌─────────────────┐
-│  Power BI       │  ← 8-page dashboard with 40+ visuals
+│     Power BI    │  ← 8-page dashboard with 40+ visuals
 └─────────────────┘
 ```
 ---
