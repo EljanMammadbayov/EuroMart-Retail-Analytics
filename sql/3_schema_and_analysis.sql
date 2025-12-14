@@ -770,6 +770,27 @@ ORDER BY profit_margin_pct DESC;
 --Furniture generates the best balance between sales and costs. Home office items perform the worst in that sense, although their profitability is only 3.14% lower than those of Furniture
 --Least sales and least profit come from Home Office items. Most profit from Furniture. Most sales from Accessories.
 
+-- What % of orders contain multiple categories? (cross-selling)
+WITH order_categories AS (
+    SELECT 
+        order_id,
+        COUNT(DISTINCT product_category) AS categories_per_order
+    FROM fact_sales
+    GROUP BY order_id
+)
+SELECT 
+    categories_per_order,
+    COUNT(*) AS order_count,
+    100.0 * COUNT(*) / (SELECT COUNT(DISTINCT order_id) FROM fact_sales) AS pct_of_orders
+FROM order_categories
+GROUP BY categories_per_order
+ORDER BY categories_per_order;
+
+-- Are we good at cross-selling?
+-- Not ideal, as we see that only 15.84% of orders include items from 3 or more categories.
+-- 40.72% of orders include only one product category. 
+-- However, 43.44% include 2, indicating that customers are willing to buy items of different types in one order almost half the time.
+
 -- Products with negative profit (investigate)
 -- Find line items with negative profit
 SELECT 
@@ -827,10 +848,15 @@ JOIN products p
 ON f.product_id = p.product_id
 GROUP BY p.stock_status)
 
-SELECT
-	((SELECT rev_per_stock_status FROM rev_per_stock_st WHERE stock_status = 'Low Stock')
-	/ (SELECT SUM(revenue) FROM fact_sales) * 100.0
-	) AS pct_low_stock_rev
+SELECT stock_status,
+	rev_per_stock_status,
+	ROUND(rev_per_stock_status / (SELECT SUM(revenue) FROM fact_sales) * 100.0, 2) AS pct_rev_stock_status
+FROM rev_per_stock_st;
+
+--SELECT
+--	((SELECT rev_per_stock_status FROM rev_per_stock_st WHERE stock_status = 'Low Stock')
+--	/ (SELECT SUM(revenue) FROM fact_sales) * 100.0
+--	) AS pct_low_stock_rev
 --46.63% of historical revenue comes from items that are currently in low stock.
 --EuroMart needs to restock their best sellers. They're running out.
 --Prioritize restocking items with high revenue and low stock status
@@ -860,7 +886,7 @@ GROUP BY p.stock_status)
 SELECT
 	((SELECT rev_per_stock_status FROM rev_per_stock_st WHERE stock_status = 'Out of Stock')
 	/ (SELECT SUM(revenue) FROM fact_sales) * 100.0
-	) AS pct_low_stock_rev;
+	) AS pct_out_of_stock_rev;
 --Another 19.21% of historical revenue come from items that are out of stock at the moment.
 
 SELECT 
@@ -954,7 +980,7 @@ SELECT
 FROM fact_sales
 GROUP BY region_id, region_country
 ORDER BY country_rev DESC;
---"Belgium is EuroMart's top market with €6.1M revenue (28% of total). However, Belgium's YoY growth is slowing (→ -16% in 2025, so far).
+--"Belgium is EuroMart's top market with €6.1M revenue (26% of total). However, Belgium's YoY growth is slowing (→ -16% in 2025, so far).
 --Awaiting the end of the year for final 2025 results.
 --Action: Investigate Belgium market saturation and expansion opportunities in other regions."
 
@@ -974,7 +1000,7 @@ SELECT
 	ROUND(100.0 * country_rev / (SELECT SUM(revenue) FROM fact_sales), 2) AS country_rev_share
 FROM country_revs
 ORDER BY country_rev_share;
---Countries revenue shares: NL (12.29%), LU (12.54%), FR (24.1%), DE (24.82%), BE (28.26%)
+--Countries revenue shares: NL (12.29%), LU (12.54%), FR (24.1%), DE (24.82%), BE (26.26%)
 
 --Regional sales growth (YoY)
 WITH cur_country_rev AS
@@ -1061,8 +1087,6 @@ WHERE NOT (order_year = 2022 AND order_quarter = 4)  -- Incomplete
   AND NOT (order_year = 2025 AND order_quarter = 4)  -- Incomplete
 GROUP BY order_year, order_quarter
 ORDER BY order_year, order_quarter;
---Expected Q4 to be consistently higher than all/most other periods each year but it is not true.
---I would highlight quarter 1 instead (Jan-Feb-March). It does not generate the highest revenue all the time but looks the most consistent.
 
 --MoM same month last year comparison
 --Compare each month to the same month last year
@@ -1108,3 +1132,25 @@ FROM monthly_growth
 WHERE growth_pct IS NOT NULL;
 
 --The average MoM growth is -1.12%, suggesting that EuroMart's monthly revenues are more or less stable.
+
+--Average QoQ growth %
+WITH quarterly_revenue AS
+(SELECT order_year, order_quarter,
+	SUM(revenue) AS quarterly_rev
+	FROM fact_sales
+	GROUP BY order_year, order_quarter
+	),
+prev_qtr_revenue AS
+	(SELECT order_year, order_quarter,
+	quarterly_rev,
+	LAG(quarterly_rev, 1) OVER (ORDER BY order_year, order_quarter) AS prev_qtr_rev,
+	ROUND(
+	100.0 * (quarterly_rev - LAG(quarterly_rev) OVER (ORDER BY order_year, order_quarter)) / 
+	NULLIF(LAG(quarterly_rev) OVER (ORDER BY order_year, order_quarter), 0), 2) AS qoq_growth
+	FROM quarterly_revenue
+	)
+	SELECT AVG(qoq_growth) AS avg_QoQ_growth
+	FROM prev_qtr_revenue
+	WHERE qoq_growth IS NOT NULL;
+
+--Similar to MoM, average QoQ growth (0.48%) is pointing to EuroMart's stability in sales numbers over time.
