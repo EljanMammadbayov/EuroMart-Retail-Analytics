@@ -68,7 +68,7 @@ EuroMart's leadership needed answers to critical questions:
    - **Recommendation:** Leverage loyalty for referral programs
   
 4. **Growth Opportunity**
-   - Belgium (28%), Germany (25%), France (24%) are top sales markets
+   - Belgium (26%), Germany (25%), France (24%) are top sales markets
    - Netherlands and Luxembourg underrepresented at ~12% each
    - **Recommendation:** Explore expansion potential for NL and LU and prepare for marketing campaigns
 
