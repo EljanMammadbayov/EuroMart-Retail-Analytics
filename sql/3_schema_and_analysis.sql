@@ -909,7 +909,7 @@ ORDER BY total_revenue DESC;
 
 -- 4) Operational Metrics
 
---Average dellivery time by ship_mode
+--Average delivery time by ship_mode
 SELECT ship_mode,
 AVG(delivery_time_days) AS avg_delivery_time_days
 FROM fact_sales
@@ -955,7 +955,7 @@ SELECT
 	SUM(gross_amount) AS global_orders_value,
 	ROUND(100.0 * SUM(shipping_cost) / SUM(gross_amount), 2) AS global_ship_cost_vs_orders
 FROM fact_sales;
---Globally, the shipping cost is around 18% of the value of orders
+--Globally, the shipping cost is around 0.18% of the value of orders (very low)
 
 --Order priority vs Actual delivery time
 SELECT
@@ -1022,7 +1022,7 @@ FROM cur_country_rev
 ORDER BY order_year DESC;
 
 --Each country saw decrease in revenue numbers in 2025 compared to 2024, but keep in mind the incompleteness of 2025 again.
---2023 was naturally a peak sales gowth rate for every EuroMart country compared to 2022 with data only for Nov and Dec.
+--2023 was naturally a peak sales growth rate for every EuroMart country compared to 2022 with data only for Nov and Dec.
 --A complete comparison can be made between 2023 and 2024 though.
 --We can see that Germany and France each accumulated (>11%) less sales in 2024 vs 2023, while Luxembourg saw the biggest rise in revenue (8.87%)
 
